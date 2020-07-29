@@ -61,4 +61,11 @@ public class Solution_819Test {
             new String[] {});
     Assertions.assertEquals(actual, "hit");
   }
+
+  @Test
+  public void shouldReturnA_whenEmptyBannedList_whenSolution2() {
+    String actual = Solution_819.solution2("a.", new String[] {});
+    Assertions.assertEquals(actual, "a");
+  }
+
 }

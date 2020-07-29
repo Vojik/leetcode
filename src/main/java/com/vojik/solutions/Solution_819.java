@@ -77,7 +77,6 @@ public class Solution_819 {
 
   public static String solution2(String paragraph, String[] banned) {
 
-    // Bob hit a ball, the hit BALL flew far after it was hit.
     // 1. Create banned set
     Set<String> bannedSet = new HashSet<>();
     Collections.addAll(bannedSet, banned);
@@ -103,7 +102,7 @@ public class Solution_819 {
       String word = sb.toString();
       int count = wordCounter.getOrDefault(word, 0);
       if (!bannedSet.contains(word)) {
-        wordCounter.put(word, count + 1);
+        wordCounter.put(word, count++);
         if (count > maxCount) {
           maxCount = count;
           result = word;
