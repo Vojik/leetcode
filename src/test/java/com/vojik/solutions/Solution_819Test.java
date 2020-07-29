@@ -7,65 +7,70 @@ import org.junit.jupiter.api.Test;
 public class Solution_819Test {
 
   @Test
-  public void shouldReturnB_whenSolution1() {
+  public void test1_whenSolution1() {
     String actual = Solution_819.solution1("a,b,b,b,b,b,b,c,c,c,!!!.", new String[] {"c"});
-    Assertions.assertEquals(actual, "b");
+    Assertions.assertEquals("b", actual);
   }
 
   @Test
-  public void shouldReturnB_whenEmptyBannedList_whenSolution1() {
+  public void test2_whenSolution1() {
     String actual = Solution_819.solution1("a,b,b,b,b,b,b,c,c,c,!!!.", new String[] {});
-    Assertions.assertEquals(actual, "b");
+    Assertions.assertEquals("b", actual);
   }
 
   @Test
-  public void shouldReturnBall_whenSolution1() {
+  public void test3_whenSolution1() {
     String actual = Solution_819
         .solution1("Bob hit a ball, the hit BALL flew far after it was hit.",
             new String[] {"hit"});
-    Assertions.assertEquals(actual, "ball");
+    Assertions.assertEquals("ball", actual);
   }
 
   @Test
-  public void shouldReturnHit_whenEmptyBannedList_whenSolution1() {
+  public void test4_whenSolution1() {
     String actual = Solution_819
         .solution1("Bob hit a ball, the hit BALL flew far after it was hit.",
             new String[] {});
-    Assertions.assertEquals(actual, "hit");
+    Assertions.assertEquals("hit", actual);
   }
 
   @Test
-  public void shouldReturnB_whenSolution2() {
+  public void test1_whenSolution2() {
     String actual = Solution_819.solution2("a,b,b,b,b,b,b,c,c,c,!!!.", new String[] {"c"});
-    Assertions.assertEquals(actual, "b");
+    Assertions.assertEquals("b", actual);
   }
 
   @Test
-  public void shouldReturnB_whenEmptyBannedList_whenSolution2() {
+  public void test2_whenSolution2() {
     String actual = Solution_819.solution2("a,b,b,b,b,b,b,c,c,c,!!!.", new String[] {});
-    Assertions.assertEquals(actual, "b");
+    Assertions.assertEquals("b", actual);
   }
 
   @Test
-  public void shouldReturnBall_whenSolution2() {
+  public void test3_whenSolution2() {
     String actual = Solution_819
         .solution2("Bob hit a ball, the hit BALL flew far after it was hit.",
             new String[] {"hit"});
-    Assertions.assertEquals(actual, "ball");
+    Assertions.assertEquals("ball", actual);
   }
 
   @Test
-  public void shouldReturnHit_whenEmptyBannedList_whenSolution2() {
+  public void test4_whenSolution2() {
     String actual = Solution_819
         .solution2("Bob hit a ball, the hit BALL flew far after it was hit.",
             new String[] {});
-    Assertions.assertEquals(actual, "hit");
+    Assertions.assertEquals("hit", actual);
   }
 
   @Test
-  public void shouldReturnA_whenEmptyBannedList_whenSolution2() {
+  public void test5_whenSolution2() {
     String actual = Solution_819.solution2("a.", new String[] {});
-    Assertions.assertEquals(actual, "a");
+    Assertions.assertEquals("a", actual);
   }
 
+  @Test
+  public void test6_whenSolution2() {
+    String actual = Solution_819.solution2("Bob. hIt, baLl", new String[] {"bob", "hit"});
+    Assertions.assertEquals("ball", actual);
+  }
 }

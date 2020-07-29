@@ -100,10 +100,10 @@ public class Solution_819 {
       // the end of a word
 
       String word = sb.toString();
-      int count = wordCounter.getOrDefault(word, 0);
-      if (!bannedSet.contains(word)) {
-        wordCounter.put(word, count++);
-        if (count > maxCount) {
+      if (!word.isBlank() && !bannedSet.contains(word)) {
+        int count = wordCounter.getOrDefault(word, 0) + 1;
+        wordCounter.put(word, count);
+        if (count >= maxCount) {
           maxCount = count;
           result = word;
         }
