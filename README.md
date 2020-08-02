@@ -6,6 +6,7 @@ LeetCode tasks solutions
 
 |  # |      Title       |   Solutions   | Difficulty  | Language | Tag                   
 |----|------------------|---------------|-------------|------------|-------------
+|2   |[Add two numbers](https://leetcode.com/problems/add-two-numbers/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_2.java) |Medium|Java|LinkedList|
 |819  |[Most Common Word](https://leetcode.com/problems/most-common-word/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_819.java) |Easy|Java|HashMap, String|
 
 
