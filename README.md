@@ -7,8 +7,9 @@ LeetCode tasks solutions
 |  # |      Title       |   Solutions   | Difficulty  | Language | Tag                   
 |----|------------------|---------------|-------------|------------|-------------
 |2   |[Add two numbers](https://leetcode.com/problems/add-two-numbers/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_2.java) |Medium|Java|LinkedList|
-|152   |[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_152.java) |Medium|Java|Array, Dynamic Programming|
-|819  |[Most Common Word](https://leetcode.com/problems/most-common-word/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_819.java) |Easy|Java|HashMap, String|
+|152 |[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_152.java) |Medium|Java|Array, Dynamic Programming|
+|412 |[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_412.java) |Easy|Java||
+|819 |[Most Common Word](https://leetcode.com/problems/most-common-word/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_819.java) |Easy|Java|HashMap, String|
 
 
 ### Code Format
