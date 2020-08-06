@@ -8,6 +8,7 @@ LeetCode tasks solutions
 |----|------------------|---------------|-------------|------------|-------------
 |2   |[Add two numbers](https://leetcode.com/problems/add-two-numbers/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_2.java) |Medium|Java|LinkedList|
 |152 |[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_152.java) |Medium|Java|Array, Dynamic Programming|
+|344 |[Reverse String](https://leetcode.com/problems/reverse-string/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_344.java) |Easy|Java|String|
 |412 |[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_412.java) |Easy|Java||
 |819 |[Most Common Word](https://leetcode.com/problems/most-common-word/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_819.java) |Easy|Java|HashMap, String|
 
