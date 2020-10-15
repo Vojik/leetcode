@@ -11,7 +11,8 @@ public class BinarySearch {
     int right = array.length - 1;
 
     while (left <= right) {
-      int middle = (left + right) / 2;
+      // Prevent (left + right) overflow
+      int middle = left + (right - left) / 2;
       if (array[middle] > value) {
         right = middle - 1;
       } else if (array[middle] < value) {
