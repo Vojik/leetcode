@@ -7,6 +7,7 @@ LeetCode tasks solutions
 |  #  |      Title       |   Solutions   | Difficulty  | Language | Tag                   
 |-----|------------------|---------------|-------------|------------|-------------
 |2    |[Add two numbers](https://leetcode.com/problems/add-two-numbers/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_2.java) |Medium|Java|LinkedList|
+|26   |[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_26.java) |Easy|Java|Array|
 |27   |[Remove Element](https://leetcode.com/problems/remove-element/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_27.java) |Easy|Java|Array|
 |88   |[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_88.java) |Easy|Java|Array|
 |136  |[Single Number](https://leetcode.com/problems/single-number/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_136.java) |Easy|Java|HashTable|
