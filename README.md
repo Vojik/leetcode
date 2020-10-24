@@ -14,6 +14,7 @@ LeetCode tasks solutions
 |88   |[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_88.java) |Easy|Java|Array|
 |136  |[Single Number](https://leetcode.com/problems/single-number/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_136.java) |Easy|Java|HashTable|
 |152  |[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_152.java) |Medium|Java|Array, Dynamic Programming|
+|162  |[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_162.java) |Medium|Java|Array, Binary Search|
 |237  |[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_237.java) |Easy|Java|LinkedList|
 |278  |[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_278.java) |Easy|Java|Binary Search|
 |344  |[Reverse String](https://leetcode.com/problems/reverse-string/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_344.java) |Easy|Java|String|
