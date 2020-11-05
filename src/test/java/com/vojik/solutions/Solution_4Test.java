@@ -12,7 +12,7 @@ class Solution_4Test {
     Solution_4 solution = new Solution_4();
 
     // when
-    double actual = solution.findMedianSortedArrays(new int[]{1, 3}, new int[]{2, 4, 5});
+    double actual = solution.findMedianSortedArrays2(new int[]{1, 3}, new int[]{2, 4, 5});
 
     // then
     assertEquals(3, actual);
@@ -21,36 +21,98 @@ class Solution_4Test {
   @Test
   public void test2_whenSolution1() {
     Solution_4 solution = new Solution_4();
-    double actual = solution.findMedianSortedArrays(new int[]{1, 3}, new int[]{2});
+    double actual = solution.findMedianSortedArrays2(new int[]{1, 3}, new int[]{2});
     assertEquals(2, actual);
   }
 
   @Test
   public void test3_whenSolution1() {
     Solution_4 solution = new Solution_4();
-    double actual = solution.findMedianSortedArrays(new int[]{1, 2}, new int[]{3,4});
+    double actual = solution.findMedianSortedArrays2(new int[]{1, 2}, new int[]{3,4});
     assertEquals(2.5, actual);
   }
 
   @Test
   public void test4_whenSolution1() {
     Solution_4 solution = new Solution_4();
-    double actual = solution.findMedianSortedArrays(new int[]{0,0}, new int[]{0,0});
+    double actual = solution.findMedianSortedArrays2(new int[]{0,0}, new int[]{0,0});
     assertEquals(0, actual);
   }
 
   @Test
   public void test5_whenSolution1() {
     Solution_4 solution = new Solution_4();
-    double actual = solution.findMedianSortedArrays(new int[]{}, new int[]{1});
+    double actual = solution.findMedianSortedArrays2(new int[]{}, new int[]{1});
     assertEquals(1, actual);
   }
 
   @Test
   public void test6_whenSolution1() {
     Solution_4 solution = new Solution_4();
+    double actual = solution.findMedianSortedArrays2(new int[]{5}, new int[]{});
+    assertEquals(5, actual);
+  }
+
+
+  @Test
+  public void test1_whenSolution2() {
+    // given
+    Solution_4 solution = new Solution_4();
+
+    // when
+    double actual = solution.findMedianSortedArrays(new int[]{1, 3}, new int[]{2, 4, 5});
+
+    // then
+    assertEquals(3, actual);
+  }
+
+  @Test
+  public void test2_whenSolution2() {
+    Solution_4 solution = new Solution_4();
+    double actual = solution.findMedianSortedArrays(new int[]{1, 3}, new int[]{2});
+    assertEquals(2, actual);
+  }
+
+  @Test
+  public void test3_whenSolution2() {
+    Solution_4 solution = new Solution_4();
+    double actual = solution.findMedianSortedArrays(new int[]{1, 2}, new int[]{3,4});
+    assertEquals(2.5, actual);
+  }
+
+  @Test
+  public void test4_whenSolution2() {
+    Solution_4 solution = new Solution_4();
+    double actual = solution.findMedianSortedArrays(new int[]{0,0}, new int[]{0,0});
+    assertEquals(0, actual);
+  }
+
+  @Test
+  public void test5_whenSolution2() {
+    Solution_4 solution = new Solution_4();
+    double actual = solution.findMedianSortedArrays(new int[]{}, new int[]{1});
+    assertEquals(1, actual);
+  }
+
+  @Test
+  public void test6_whenSolution2() {
+    Solution_4 solution = new Solution_4();
     double actual = solution.findMedianSortedArrays(new int[]{5}, new int[]{});
     assertEquals(5, actual);
+  }
+
+  @Test
+  public void test7_whenSolution2() {
+    Solution_4 solution = new Solution_4();
+    double actual = solution.findMedianSortedArrays(new int[]{1,2,3}, new int[]{7,8,9});
+    assertEquals(5, actual);
+  }
+
+  @Test
+  public void test8_whenSolution2() {
+    Solution_4 solution = new Solution_4();
+    double actual = solution.findMedianSortedArrays(new int[]{1}, new int[]{1});
+    assertEquals(1, actual);
   }
 
 }
