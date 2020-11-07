@@ -12,6 +12,7 @@ LeetCode tasks solutions
 |27   |[Remove Element](https://leetcode.com/problems/remove-element/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_27.java) |Easy|Java|Array|
 |33   |[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_33.java) |Medium|Java|Array, Binary Search|
 |34   |[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_34.java) |Medium|Java|Array, Binary Search|
+|50   |[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_50.java) |Medium|Java|Math|
 |69   |[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_69.java) |Easy|Java|Binary Search|
 |88   |[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_88.java) |Easy|Java|Array|
 |136  |[Single Number](https://leetcode.com/problems/single-number/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_136.java) |Easy|Java|HashTable|
