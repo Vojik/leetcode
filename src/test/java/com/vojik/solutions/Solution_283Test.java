@@ -33,4 +33,13 @@ class Solution_283Test {
     assertArrayEquals(expected, input);
   }
 
+  @Test
+  public void test4_whenSolution() {
+    Solution_283 solution = new Solution_283();
+    int[] input = new int[]{2, 1};
+    int[] expected = new int[]{2, 1};
+    solution.moveZeroes(input);
+    assertArrayEquals(expected, input);
+  }
+
 }

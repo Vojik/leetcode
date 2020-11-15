@@ -25,10 +25,12 @@ public class Solution_283 {
     int i = 0;
 
     while (i < nums.length) {
-      if (nums[i] != 0 && zeroPointer >= 0) {
-        nums[zeroPointer] = nums[i];
-        nums[i] = 0;
-        zeroPointer++;
+      if (nums[i] != 0) {
+        if (zeroPointer >= 0) {
+          nums[zeroPointer] = nums[i];
+          nums[i] = 0;
+          zeroPointer++;
+        }
       } else if (zeroPointer < 0) {
         zeroPointer = i;
       }
