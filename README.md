@@ -32,6 +32,7 @@ LeetCode tasks solutions
 |905  |[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_905.java) |Easy|Java|Array|
 |941  |[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_941.java) |Easy|Java|Array|
 |977  |[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_977.java) |Easy|Java|Array|
+|1051 |[Height Checker](https://leetcode.com/problems/height-checker/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1051.java) |Easy|Java|Array|
 |1089 |[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1089.java) |Easy|Java|Array|
 |1295 |[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1295.java) |Easy|Java|Array|
 |1299 |[Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1299.java) |Easy|Java|Array|
