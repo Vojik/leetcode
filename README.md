@@ -26,6 +26,7 @@ LeetCode tasks solutions
 |367  |[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_367.java) |Easy|Java|Binary Search|
 |412  |[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_412.java) |Easy|Java||
 |414  |[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_414.java) |Easy|Java|Array|
+|448  |[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_448.java) |Easy|Java|Array|
 |485  |[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_485.java) |Easy|Java|Array|
 |658  |[Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_658.java) |Medium|Java|Array, Binary Search|
 |704  |[Binary Search](https://leetcode.com/problems/binary-search/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_704.java) |Easy|Java|Array, Binary Search|
