@@ -30,6 +30,7 @@ LeetCode tasks solutions
 |485  |[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_485.java) |Easy|Java|Array|
 |658  |[Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_658.java) |Medium|Java|Array, Binary Search|
 |704  |[Binary Search](https://leetcode.com/problems/binary-search/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_704.java) |Easy|Java|Array, Binary Search|
+|744  |[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_744.java) |Easy|Java|Array, Binary Search|
 |819  |[Most Common Word](https://leetcode.com/problems/most-common-word/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_819.java) |Easy|Java|HashMap, String|
 |905  |[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_905.java) |Easy|Java|Array|
 |941  |[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_941.java) |Easy|Java|Array|
