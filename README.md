@@ -17,6 +17,7 @@ LeetCode tasks solutions
 |88   |[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_88.java) |Easy|Java|Array|
 |136  |[Single Number](https://leetcode.com/problems/single-number/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_136.java) |Easy|Java|HashTable|
 |141  |[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_141.java) |Easy|Java|LinkedList|
+|142  |[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_142.java) |Medium|Java|LinkedList|
 |152  |[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_152.java) |Medium|Java|Array, Dynamic Programming|
 |153  |[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_153.java) |Medium|Java|Array, Binary Search|
 |162  |[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_162.java) |Medium|Java|Array, Binary Search|
