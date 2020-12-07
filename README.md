@@ -23,6 +23,7 @@ LeetCode tasks solutions
 |153  |[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_153.java) |Medium|Java|Array, Binary Search|
 |160  |[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_160.java) |Easy|Java|LinkedList|
 |162  |[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_162.java) |Medium|Java|Array, Binary Search|
+|206  |[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_206.java) |Easy|Java|LinkedList|
 |237  |[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_237.java) |Easy|Java|LinkedList|
 |278  |[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_278.java) |Easy|Java|Binary Search|
 |283  |[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_283.java) |Easy|Java|Array|
