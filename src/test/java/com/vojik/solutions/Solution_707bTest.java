@@ -4,7 +4,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import org.junit.jupiter.api.Test;
 
-class Solution_707bbTest {
+class Solution_707bTest {
 
   @Test
   public void test1_whenSolution1() {
