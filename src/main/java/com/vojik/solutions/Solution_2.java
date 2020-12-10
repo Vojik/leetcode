@@ -17,18 +17,16 @@ public class Solution_2 {
 
   public static ListNode solution1(ListNode l1, ListNode l2) {
     ListNode result = new ListNode(0);
-    ListNode cur1 = l1;
-    ListNode cur2 = l2;
     ListNode current = result;
     int carry = 0;
 
-    while (cur1 != null || cur2 != null) {
+    while (l1 != null || l2 != null) {
       int sum = carry;
-      if (cur1 != null) {
-        sum += cur1.val;
+      if (l1 != null) {
+        sum += l1.val;
       }
-      if (cur2 != null) {
-        sum += cur2.val;
+      if (l2 != null) {
+        sum += l2.val;
       }
 
       carry = sum / 10;
@@ -36,11 +34,11 @@ public class Solution_2 {
 
       // Moving
       current = current.next;
-      if (cur1 != null) {
-        cur1 = cur1.next;
+      if (l1 != null) {
+        l1 = l1.next;
       }
-      if (cur2 != null) {
-        cur2 = cur2.next;
+      if (l2 != null) {
+        l2 = l2.next;
       }
     }
     if (carry == 1) {
