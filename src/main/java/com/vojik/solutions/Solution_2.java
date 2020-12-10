@@ -3,6 +3,8 @@ package com.vojik.solutions;
 import com.vojik.helpers.ListNode;
 
 /**
+ * 2. Add Two Numbers
+ *
  * You are given two non-empty linked lists representing two non-negative integers. The digits are
  * stored in reverse order and each of their nodes contain a single digit. Add the two numbers and
  * return it as a linked list.
@@ -21,6 +23,7 @@ public class Solution_2 {
     int carry = 0;
 
     while (l1 != null || l2 != null) {
+      // calculate
       int sum = carry;
       if (l1 != null) {
         sum += l1.val;
@@ -29,8 +32,15 @@ public class Solution_2 {
         sum += l2.val;
       }
 
+      // set value
       carry = sum / 10;
-      current.next = new ListNode(sum % 10);
+      if (l1 != null) {
+        l1.val = sum % 10;
+        current.next = l1;
+      } else {
+        l2.val = sum % 10;
+        current.next = l2;
+      }
 
       // Moving
       current = current.next;
