@@ -47,6 +47,7 @@ LeetCode tasks solutions
 |744  |[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_744.java) |Easy|Java|Array, Binary Search|
 |752  |[Open the Lock](https://leetcode.com/problems/open-the-lock/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_752.java) |Medium|Java|Queue, BFS|
 |819  |[Most Common Word](https://leetcode.com/problems/most-common-word/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_819.java) |Easy|Java|HashMap, String|
+|844  |[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_844.java) |Easy|Java|Stack,String|
 |905  |[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_905.java) |Easy|Java|Array|
 |941  |[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_941.java) |Easy|Java|Array|
 |977  |[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_977.java) |Easy|Java|Array|
