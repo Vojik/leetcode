@@ -9,6 +9,7 @@ LeetCode tasks solutions
 |2    |[Add two numbers](https://leetcode.com/problems/add-two-numbers/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_2.java) |Medium|Java|LinkedList|
 |4    |[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_4.java) |Hard|Java|Binary Search|
 |19   |[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_19.java) |Medium|Java|LinkedList|
+|20   |[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/submissions/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_20.java) |Easy|Java|Stack|
 |21   |[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_21.java) |Easy|Java|LinkedList|
 |26   |[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_26.java) |Easy|Java|Array|
 |27   |[Remove Element](https://leetcode.com/problems/remove-element/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_27.java) |Easy|Java|Array|
