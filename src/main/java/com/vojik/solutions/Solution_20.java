@@ -1,6 +1,5 @@
 package com.vojik.solutions;
 
-import java.util.HashMap;
 import java.util.Map;
 import java.util.Stack;
 
@@ -33,14 +32,7 @@ import java.util.Stack;
  */
 public class Solution_20 {
 
-  private Map<Character, Character> mapper;
-
-  public Solution_20() {
-    mapper = new HashMap<>();
-    mapper.put('(', ')');
-    mapper.put('[', ']');
-    mapper.put('{', '}');
-  }
+  private static final Map<Character, Character> MAPPER = Map.of('(', ')', '[', ']', '{', '}');
 
   // Time: O(n) Space: O(n)
   public boolean isValid(String s) {
@@ -68,7 +60,7 @@ public class Solution_20 {
     Stack<Character> stack = new Stack<>();
 
     for (char ch : s.toCharArray()) {
-      if (mapper.containsKey(ch)) {
+      if (MAPPER.containsKey(ch)) {
         stack.push(ch);
         continue;
       }
@@ -77,7 +69,7 @@ public class Solution_20 {
         return false;
       }
       Character top = stack.pop();
-      if (mapper.get(top) != top) {
+      if (MAPPER.get(top) != ch) {
         return false;
       }
     }
