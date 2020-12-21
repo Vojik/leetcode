@@ -24,6 +24,7 @@ LeetCode tasks solutions
 |142  |[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_142.java) |Medium|Java|LinkedList|
 |152  |[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_152.java) |Medium|Java|Array, Dynamic Programming|
 |153  |[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_153.java) |Medium|Java|Array, Binary Search|
+|155  |[Min Stack](https://leetcode.com/problems/min-stack/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_155.java) |Easy|Java|Stack|
 |160  |[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_160.java) |Easy|Java|LinkedList|
 |162  |[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_162.java) |Medium|Java|Array, Binary Search|
 |200  |[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_200.java) |Medium|Java|DFS,Queue|
