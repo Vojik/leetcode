@@ -6,6 +6,7 @@ LeetCode tasks solutions
 
 |  #  |      Title       |   Solutions   | Difficulty  | Language | Tag                   
 |-----|------------------|---------------|-------------|------------|-------------
+|1    |[Two Sum](https://leetcode.com/problems/two-sum/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1.java) |Easy|Java|Array|
 |2    |[Add two numbers](https://leetcode.com/problems/add-two-numbers/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_2.java) |Medium|Java|LinkedList|
 |4    |[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_4.java) |Hard|Java|Binary Search|
 |19   |[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_19.java) |Medium|Java|LinkedList|
