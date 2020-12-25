@@ -47,6 +47,7 @@ LeetCode tasks solutions
 |658  |[Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_658.java) |Medium|Java|Array, Binary Search|
 |704  |[Binary Search](https://leetcode.com/problems/binary-search/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_704.java) |Easy|Java|Array, Binary Search|
 |707  |[Design Linked List](https://leetcode.com/problems/design-linked-list/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_707.java) |Medium|Java|LinkedList|
+|739  |[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_739.java) |Medium|Java|Stack|
 |744  |[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_744.java) |Easy|Java|Array, Binary Search|
 |752  |[Open the Lock](https://leetcode.com/problems/open-the-lock/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_752.java) |Medium|Java|Queue, BFS|
 |819  |[Most Common Word](https://leetcode.com/problems/most-common-word/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_819.java) |Easy|Java|HashMap, String|
