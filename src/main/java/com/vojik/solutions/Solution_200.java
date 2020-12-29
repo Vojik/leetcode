@@ -74,7 +74,7 @@ public class Solution_200 {
     for (int i = 0; i < m; i++) {
       for (int j = 0; j < n; j++) {
         if (grid[i][j] == '1' && !visited[i][j]) {
-          dfs2(i, j, grid, visited);
+          bfs(i, j, grid, visited);
           count++;
         }
       }
@@ -82,7 +82,7 @@ public class Solution_200 {
     return count;
   }
 
-  private void dfs2(int i, int j, char[][] grid, boolean[][] visited) {
+  private void bfs(int i, int j, char[][] grid, boolean[][] visited) {
     Queue<int[]> queue = new LinkedList<>();
     queue.add(new int[]{i, j});
     visited[i][j] = true;
