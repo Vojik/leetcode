@@ -1,11 +1,47 @@
 package com.vojik.solutions;
 
+import java.util.Stack;
+
 /**
  * 394. Decode String
  */
 public class Solution_394 {
 
   private static int i = 0;
+
+  // Time: O(n) Space: O(n)
+  public String decodeString2(String s) {
+    Stack<Integer> counts = new Stack<>();
+    Stack<String> result = new Stack<>();
+    result.push("");
+    int i = 0;
+
+    while (i < s.length()) {
+      if (Character.isDigit(s.charAt(i))) {
+        int num = 0;
+        while (Character.isDigit(s.charAt(i))) {
+          num = num * 10 + s.charAt(i) - '0';
+          i++;
+        }
+        counts.push(num);
+        continue;
+      } else if ('[' == s.charAt(i)) {
+        result.push("");
+      } else if (']' == s.charAt(i)) {
+        int num = counts.pop();
+        String str = result.pop();
+        StringBuilder sb = new StringBuilder();
+        for (int j = 0; j < num; j++) {
+          sb.append(str);
+        }
+        result.push(result.pop() + sb.toString());
+      } else {
+        result.push(result.pop() + s.charAt(i));
+      }
+      i++;
+    }
+    return result.pop();
+  }
 
   // Time: O(n) Space: O(n)
   public String decodeString(String s) {
