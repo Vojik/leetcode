@@ -32,6 +32,7 @@ public class Solution_206 {
     return head;
   }
 
+  // Time: O(n) Space: O(n)
   public ListNode reverseListRecursively(ListNode head) {
     return helper(head, null);
   }
