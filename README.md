@@ -56,6 +56,7 @@ LeetCode tasks solutions
 |542  |[01 Matrix](https://leetcode.com/problems/01-matrix/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_542.java) |Medium|Java|BFS|
 |622  |[Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_622.java) |Medium|Java|Queue|
 |658  |[Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_658.java) |Medium|Java|Array, Binary Search|
+|700  |[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_700.java) |Easy|Java|Binary Tree|
 |704  |[Binary Search](https://leetcode.com/problems/binary-search/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_704.java) |Easy|Java|Array, Binary Search|
 |707  |[Design Linked List](https://leetcode.com/problems/design-linked-list/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_707.java) |Medium|Java|LinkedList|
 |733  |[Flood Fill](https://leetcode.com/problems/flood-fill/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_733.java) |Easy|Java|DFS|
