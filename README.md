@@ -12,6 +12,7 @@ LeetCode tasks solutions
 |19   |[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_19.java) |Medium|Java|LinkedList|
 |20   |[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/submissions/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_20.java) |Easy|Java|Stack|
 |21   |[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_21.java) |Easy|Java|LinkedList|
+|24   |[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_24.java) |Medium|Java|LinkedList|
 |26   |[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_26.java) |Easy|Java|Array|
 |27   |[Remove Element](https://leetcode.com/problems/remove-element/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_27.java) |Easy|Java|Array|
 |33   |[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_33.java) |Medium|Java|Array, Binary Search|
