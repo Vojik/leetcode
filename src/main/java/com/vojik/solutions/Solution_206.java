@@ -31,4 +31,18 @@ public class Solution_206 {
     }
     return head;
   }
+
+  public ListNode reverseListRecursively(ListNode head) {
+    return helper(head, null);
+  }
+
+  private ListNode helper(ListNode head, ListNode previous) {
+    if (head == null) {
+      return previous;
+    }
+
+    ListNode temp = head.next;
+    head.next = previous;
+    return helper(temp, head);
+  }
 }
