@@ -67,6 +67,7 @@ LeetCode tasks solutions
 |739  |[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_739.java) |Medium|Java|Stack|
 |744  |[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_744.java) |Easy|Java|Array, Binary Search|
 |752  |[Open the Lock](https://leetcode.com/problems/open-the-lock/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_752.java) |Medium|Java|Queue, BFS|
+|779  |[K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_779.java) |Medium|Java|Recursion|
 |819  |[Most Common Word](https://leetcode.com/problems/most-common-word/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_819.java) |Easy|Java|HashMap, String|
 |841  |[Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_841.java) |Medium|Java|Queue, Stack|
 |844  |[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_844.java) |Easy|Java|Stack,String|
