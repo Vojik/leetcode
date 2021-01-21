@@ -73,6 +73,7 @@ LeetCode tasks solutions
 |841  |[Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_841.java) |Medium|Java|Queue, Stack|
 |844  |[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_844.java) |Easy|Java|Stack,String|
 |905  |[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_905.java) |Easy|Java|Array|
+|912  |[Sort an Array](https://leetcode.com/problems/sort-an-array/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_912.java) |Medium|Java|Recursion, Queue|
 |941  |[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_941.java) |Easy|Java|Array|
 |977  |[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_977.java) |Easy|Java|Array|
 |1051 |[Height Checker](https://leetcode.com/problems/height-checker/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1051.java) |Easy|Java|Array|
