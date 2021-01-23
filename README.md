@@ -28,6 +28,7 @@ LeetCode tasks solutions
 |98   |[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_98.java) |Medium|Java|Recursion, Stack|
 |104  |[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_104.java) |Easy|Java|Tree, DFS, Recursion|
 |119  |[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_119.java) |Easy|Java|Array|
+|125  |[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_125.java) |Easy|Java|String|
 |133  |[Clone Graph](https://leetcode.com/problems/clone-graph/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_133.java) |Medium|Java|Recursion, DFS, Stack, Queue|
 |136  |[Single Number](https://leetcode.com/problems/single-number/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_136.java) |Easy|Java|HashTable|
 |141  |[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_141.java) |Easy|Java|LinkedList|
