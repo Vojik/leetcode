@@ -46,6 +46,7 @@ LeetCode tasks solutions
 |232  |[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_234.java) |Easy|Java|Queue, Stack|
 |234  |[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_234.java) |Easy|Java|LinkedList|
 |237  |[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_237.java) |Easy|Java|LinkedList|
+|240  |[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_240.java) |Medium|Java|Recursion|
 |278  |[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_278.java) |Easy|Java|Binary Search|
 |279  |[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_279.java) |Medium|Java|Queue|
 |283  |[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_283.java) |Easy|Java|Array|
