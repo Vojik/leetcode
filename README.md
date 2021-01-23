@@ -25,6 +25,7 @@ LeetCode tasks solutions
 |92   |[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_92.java) |Medium|Java|LinkedList|
 |94   |[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_94.java) |Medium|Java|LinkedList|
 |95   |[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_95.java) |Medium|Java|Recursion|
+|98   |[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_98.java) |Medium|Java|Recursion, Stack|
 |104  |[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_104.java) |Easy|Java|Tree, DFS, Recursion|
 |119  |[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_119.java) |Easy|Java|Array|
 |133  |[Clone Graph](https://leetcode.com/problems/clone-graph/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_133.java) |Medium|Java|Recursion, DFS, Stack, Queue|
