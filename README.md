@@ -87,6 +87,9 @@ LeetCode tasks solutions
 |1299 |[Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1299.java) |Easy|Java|Array|
 |1346 |[Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1346.java) |Easy|Java|Array|
 
+### Sorting animations
+
+[toptal.com](https://www.toptal.com/developers/sorting-algorithms)
 
 ### Code Format
 
