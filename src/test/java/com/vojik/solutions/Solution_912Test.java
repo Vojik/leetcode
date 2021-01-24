@@ -29,4 +29,18 @@ class Solution_912Test {
     Assertions.assertArrayEquals(new int[]{1, 2, 3, 5}, actual);
   }
 
+  @Test
+  public void test1_whenSolution3() {
+    int[] input = new int[]{5, 2, 3, 1, 4};
+    new Solution_912().quickSort(input);
+    Assertions.assertArrayEquals(new int[]{1, 2, 3, 4, 5}, input);
+  }
+
+  @Test
+  public void test2_whenSolution3() {
+    int[] input = new int[]{5, 2, 3, 1};
+    new Solution_912().quickSort(input);
+    Assertions.assertArrayEquals(new int[]{1, 2, 3, 5}, input);
+  }
+
 }

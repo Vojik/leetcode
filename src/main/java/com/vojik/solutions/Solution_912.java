@@ -59,4 +59,36 @@ public class Solution_912 {
 
     return result;
   }
+
+  // Quick sort
+  // Time: O(N log(N))
+  public void quickSort(int[] nums) {
+    quickSort(nums, 0, nums.length - 1);
+  }
+
+  private void quickSort(int[] nums, int start, int end) {
+    if (start < end) {
+      int pivotIdx = partition(nums, start, end);
+      quickSort(nums, start, pivotIdx - 1);
+      quickSort(nums, pivotIdx + 1, end);
+    }
+  }
+
+  private int partition(int[] nums, int start, int end) {
+    int pivot = nums[end];
+    int i = start;
+    for (int j = i; j < end; j++) {
+      if (nums[j] < pivot) {
+        int temp = nums[i];
+        nums[i] = nums[j];
+        nums[j] = temp;
+        i++;
+      }
+    }
+
+    int temp = nums[i];
+    nums[i] = nums[end];
+    nums[end] = temp;
+    return i;
+  }
 }
