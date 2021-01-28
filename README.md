@@ -29,6 +29,7 @@ LeetCode tasks solutions
 |94   |[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_94.java) |Medium|Java|LinkedList|
 |95   |[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_95.java) |Medium|Java|Recursion|
 |98   |[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_98.java) |Medium|Java|Recursion, Stack|Adobe, Amazon, Apple, Facebook, Microsoft
+|100  |[Same Tree](https://leetcode.com/problems/same-tree/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_100.java) |Easy|Java|Recursion, Queue|Amazon, Apple, Facebook, Google
 |104  |[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_104.java) |Easy|Java|Tree, DFS, Recursion|
 |119  |[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_119.java) |Easy|Java|Array|
 |125  |[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_125.java) |Easy|Java|String|Amazon, Apple, Facebook, Google, Microsoft
