@@ -25,6 +25,7 @@ LeetCode tasks solutions
 |61   |[Rotate List](https://leetcode.com/problems/rotate-list/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_61.java) |Medium|Java|LinkedList|
 |69   |[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_69.java) |Easy|Java|Binary Search|
 |70   |[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_70.java) |Easy|Java|Recursion|
+|84   |[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_84.java) |Hard|Java|Array,Stack|Microsoft
 |88   |[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_88.java) |Easy|Java|Array|
 |92   |[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_92.java) |Medium|Java|LinkedList|
 |94   |[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_94.java) |Medium|Java|LinkedList|
