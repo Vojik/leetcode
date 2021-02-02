@@ -27,6 +27,7 @@ LeetCode tasks solutions
 |70   |[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_70.java) |Easy|Java|Recursion|
 |84   |[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_84.java) |Hard|Java|Array,Stack|Microsoft
 |88   |[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_88.java) |Easy|Java|Array|
+|90   |[Subsets II](https://leetcode.com/problems/subsets-ii/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_90.java) |Medium|Java|Backtracking|
 |92   |[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_92.java) |Medium|Java|LinkedList|
 |94   |[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_94.java) |Medium|Java|LinkedList|
 |95   |[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_95.java) |Medium|Java|Recursion|
