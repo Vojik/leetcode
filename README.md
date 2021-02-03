@@ -25,6 +25,7 @@ LeetCode tasks solutions
 |61   |[Rotate List](https://leetcode.com/problems/rotate-list/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_61.java) |Medium|Java|LinkedList|
 |69   |[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_69.java) |Easy|Java|Binary Search|
 |70   |[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_70.java) |Easy|Java|Recursion|
+|77   |[Combinations](https://leetcode.com/problems/combinations/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_77.java) |Medium|Java|Backtracking|Facebook, Google, Microsoft
 |84   |[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_84.java) |Hard|Java|Array,Stack|Microsoft
 |88   |[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_88.java) |Easy|Java|Array|
 |90   |[Subsets II](https://leetcode.com/problems/subsets-ii/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_90.java) |Medium|Java|Backtracking|
