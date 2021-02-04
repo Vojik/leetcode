@@ -25,6 +25,7 @@ LeetCode tasks solutions
 |54   |[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_54.java) |Medium|Java|Array|Adobe, Amazon, Apple, Facebook, Google, Microsoft
 |61   |[Rotate List](https://leetcode.com/problems/rotate-list/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_61.java) |Medium|Java|LinkedList|
 |66   |[Plus One](https://leetcode.com/problems/plus-one/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_66.java) |Easy|Java|Array|Amazon, Facebook, Google, Microsoft
+|67   |[Add Binary](https://leetcode.com/problems/add-binary/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_67.java) |Easy|Java|Array|Adobe, Amazon, Facebook, Google, Microsoft
 |69   |[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_69.java) |Easy|Java|Binary Search|
 |70   |[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_70.java) |Easy|Java|Recursion|Adobe, Alibaba, Amazon, Apple, Facebook, Microsoft
 |77   |[Combinations](https://leetcode.com/problems/combinations/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_77.java) |Medium|Java|Backtracking|Facebook, Google, Microsoft
