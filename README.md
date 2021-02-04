@@ -39,6 +39,7 @@ LeetCode tasks solutions
 |102  |[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_102.java) |Medium|Java|Recursion, Queue|Apple, Google, Facebook, Microsoft, Oracle, Uber, Bloomberg, Walmart labs
 |103  |[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_103.java) |Medium|Java|Recursion, Queue|Adobe, Google
 |104  |[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_104.java) |Easy|Java|Tree, DFS, Recursion|Apple, Facebook, Google
+|118  |[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_118.java) |Easy|Java|Array|Amazon, Facebook, Google, Microsoft
 |119  |[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_119.java) |Easy|Java|Array|Adobe, Amazon, Google
 |125  |[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_125.java) |Easy|Java|String|Amazon, Apple, Facebook, Google, Microsoft
 |133  |[Clone Graph](https://leetcode.com/problems/clone-graph/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_133.java) |Medium|Java|Recursion, DFS, Stack, Queue|
