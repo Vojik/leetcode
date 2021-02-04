@@ -16,6 +16,7 @@ LeetCode tasks solutions
 |24   |[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_24.java) |Medium|Java|LinkedList|Adobe, Amazon, Google
 |26   |[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_26.java) |Easy|Java|Array|
 |27   |[Remove Element](https://leetcode.com/problems/remove-element/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_27.java) |Easy|Java|Array|
+|28   |[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_28.java) |Easy|Java|Array|Adobe, Amazon, Apple, Facebook, Google, Microsoft
 |33   |[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_33.java) |Medium|Java|Array, Binary Search|
 |34   |[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_34.java) |Medium|Java|Array, Binary Search|
 |36   |[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_36.java) |Medium|Java|Array, HashTable| Amazon, Apple, Facebook, Google, Microsoft
