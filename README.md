@@ -71,6 +71,7 @@ LeetCode tasks solutions
 |448  |[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_448.java) |Easy|Java|Array|
 |485  |[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_485.java) |Easy|Java|Array|
 |494  |[Target Sum](https://leetcode.com/problems/target-sum/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_494.java) |Medium|Java|DFS, Recursion|
+|498  |[Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_498.java) |Medium|Java|Array|Facebook, Google
 |509  |[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_509.java) |Easy|Java|Array|Adobe, Amazon, Microsoft
 |541  |[Reverse String II](https://leetcode.com/problems/reverse-string-ii/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_541.java) |Easy|Java|String|
 |542  |[01 Matrix](https://leetcode.com/problems/01-matrix/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_542.java) |Medium|Java|BFS|
