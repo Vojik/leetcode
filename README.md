@@ -9,6 +9,7 @@ LeetCode tasks solutions
 |1    |[Two Sum](https://leetcode.com/problems/two-sum/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1.java) |Easy|Java|Array|Adobe, Aetion, Affirm, Airbnb, Alibaba, Amazon, Apple, Facebook, Google, Microsoft
 |2    |[Add two numbers](https://leetcode.com/problems/add-two-numbers/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_2.java) |Medium|Java|LinkedList|Adobe, Aetion, Airbnb, Alibaba, Amazon, Apple, Facebook, Google
 |4    |[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_4.java) |Hard|Java|Binary Search|Alibaba, Apple
+|14   |[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_14.java) |Easy|Java|String|Adobe, Apple, Google, Microsoft
 |19   |[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_19.java) |Medium|Java|LinkedList|
 |20   |[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/submissions/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_20.java) |Easy|Java|Stack|
 |21   |[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_21.java) |Easy|Java|LinkedList|
