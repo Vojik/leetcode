@@ -22,6 +22,7 @@ LeetCode tasks solutions
 |37   |[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_37.java) |Hard|Java|Backtracking, HashTable| Amazon
 |50   |[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_50.java) |Medium|Java|Math, Recursion|Adobe, Alibaba, Amazon, Apple, Facebook, Microsoft
 |52   |[N-Queens II](https://leetcode.com/problems/n-queens-ii/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_52.java) |Hard|Java|Backtracking|
+|54   |[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_54.java) |Medium|Java|Array|Adobe, Amazon, Apple, Facebook, Google, Microsoft
 |61   |[Rotate List](https://leetcode.com/problems/rotate-list/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_61.java) |Medium|Java|LinkedList|
 |66   |[Plus One](https://leetcode.com/problems/plus-one/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_66.java) |Easy|Java|Array|Amazon, Facebook, Google, Microsoft
 |69   |[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_69.java) |Easy|Java|Binary Search|
