@@ -79,6 +79,7 @@ LeetCode tasks solutions
 |509  |[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_509.java) |Easy|Java|Array|Adobe, Amazon, Microsoft
 |541  |[Reverse String II](https://leetcode.com/problems/reverse-string-ii/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_541.java) |Easy|Java|String|
 |542  |[01 Matrix](https://leetcode.com/problems/01-matrix/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_542.java) |Medium|Java|BFS|
+|594  |[Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_594.java) |Easy|Java|HashMap, Array|
 |622  |[Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_622.java) |Medium|Java|Queue|
 |657  |[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_657.java) |Easy|Java|String|Adobe, Amazon
 |658  |[Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_658.java) |Medium|Java|Array, Binary Search|
