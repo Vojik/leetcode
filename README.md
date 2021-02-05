@@ -60,6 +60,7 @@ LeetCode tasks solutions
 |200  |[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_200.java) |Medium|Java|DFS,Queue|
 |203  |[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_203.java) |Easy|Java|LinkedList|
 |206  |[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_206.java) |Easy|Java|LinkedList|Adobe, Alibaba, Facebook, Google, Microsoft
+|209  |[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_209.java) |Medium|Java|Array|Google, Microsoft
 |225  |[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_225.java) |Easy|Java|Queue, Stack|
 |232  |[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_234.java) |Easy|Java|Queue, Stack|
 |234  |[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_234.java) |Easy|Java|LinkedList|
@@ -75,7 +76,7 @@ LeetCode tasks solutions
 |412  |[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_412.java) |Easy|Java||
 |414  |[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_414.java) |Easy|Java|Array|
 |448  |[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_448.java) |Easy|Java|Array|
-|485  |[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_485.java) |Easy|Java|Array|
+|485  |[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_485.java) |Easy|Java|Array|Amazon
 |494  |[Target Sum](https://leetcode.com/problems/target-sum/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_494.java) |Medium|Java|DFS, Recursion|
 |498  |[Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_498.java) |Medium|Java|Array|Facebook, Google
 |509  |[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_509.java) |Easy|Java|Array|Adobe, Amazon, Microsoft

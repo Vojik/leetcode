@@ -65,9 +65,6 @@ public class Solution_27 {
   }
 
   public int removeElement2(int[] nums, int val) {
-    if (nums == null || nums.length == 0 || (nums.length == 1 && nums[0] == val)) {
-      return 0;
-    }
     int left = 0;
     int right = nums.length - 1;
     while (left < right) {
