@@ -55,6 +55,7 @@ LeetCode tasks solutions
 |155  |[Min Stack](https://leetcode.com/problems/min-stack/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_155.java) |Easy|Java|Stack|
 |160  |[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_160.java) |Easy|Java|LinkedList|
 |162  |[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_162.java) |Medium|Java|Array, Binary Search|
+|167  |[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_167.java) |Easy|Java|Array|Adobe, Amazon, Apple, Facebook, Google, Microsoft
 |191  |[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_191.java) |Easy|Java|Bit Manipulation|Amazon, Apple, Google, Microsoft
 |200  |[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_200.java) |Medium|Java|DFS,Queue|
 |203  |[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_203.java) |Easy|Java|LinkedList|
