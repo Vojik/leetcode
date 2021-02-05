@@ -10,14 +10,8 @@ class Solution_27Test {
 
   @Test
   public void test1_whenSolution1() {
-    // given
-    Solution_27 solution = new Solution_27();
     int[] input = new int[]{3, 2, 2, 3};
-
-    // when
-    int actual = solution.removeElement(input, 3);
-
-    // then
+    int actual = new Solution_27().removeElement(input, 3);
     assertEquals(2, actual);
     assertArrayEquals(new int[]{2, 2}, Arrays.copyOfRange(input, 0, input.length - actual));
   }
@@ -62,5 +56,49 @@ class Solution_27Test {
 
     // then
     assertEquals(0, actual);
+  }
+
+  ///////////////
+
+  @Test
+  public void test1_whenSolution2() {
+    int[] input = new int[]{3, 2, 2, 3};
+    int actual = new Solution_27().removeElement2(input, 3);
+    assertEquals(2, actual);
+    assertArrayEquals(new int[]{2, 2}, Arrays.copyOfRange(input, 0, input.length - actual));
+  }
+
+  @Test
+  public void test2_whenSolution2() {
+    // given
+    Solution_27 solution = new Solution_27();
+    int[] input = new int[]{0, 1, 2, 2, 3, 0, 4, 2};
+
+    // when
+    int actual = solution.removeElement2(input, 2);
+
+    // then
+    assertEquals(5, actual);
+    assertArrayEquals(new int[]{0, 1, 4, 0, 3},
+        Arrays.copyOfRange(input, 0, input.length - (input.length - actual)));
+  }
+
+  @Test
+  public void test3_whenSolution2() {
+    // given
+    Solution_27 solution = new Solution_27();
+    int[] input = new int[]{3};
+
+    // when
+    int actual = solution.removeElement2(input, 2);
+
+    // then
+    assertEquals(1, actual);
+    assertArrayEquals(new int[]{3}, input);
+  }
+
+  @Test
+  public void test4_whenSolution2() {
+    assertEquals(0, new Solution_27().removeElement2(new int[]{3}, 3));
   }
 }
