@@ -61,6 +61,7 @@ LeetCode tasks solutions
 |167  |[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_167.java) |Easy|Java|Array|Adobe, Amazon, Apple, Facebook, Google, Microsoft
 |189  |[Rotate Array](https://leetcode.com/problems/rotate-array/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_189.java) |Medium|Java|Array|Amazon
 |191  |[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_191.java) |Easy|Java|Bit Manipulation|Amazon, Apple, Google, Microsoft
+|199  |[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_199.java) |Medium|Java|Tree, BFS|Adobe, Google, Amazon
 |200  |[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_200.java) |Medium|Java|DFS,Queue|
 |203  |[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_203.java) |Easy|Java|LinkedList|
 |206  |[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_206.java) |Easy|Java|LinkedList|Adobe, Alibaba, Facebook, Google, Microsoft
