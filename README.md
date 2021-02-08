@@ -74,6 +74,7 @@ LeetCode tasks solutions
 |278  |[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_278.java) |Easy|Java|Binary Search|
 |279  |[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_279.java) |Medium|Java|Queue|
 |283  |[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_283.java) |Easy|Java|Array|
+|284  |[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_284.java) |Medium|Java|Data Structure|Google
 |328  |[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_328.java) |Medium|Java|LinkedList|
 |344  |[Reverse String](https://leetcode.com/problems/reverse-string/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_344.java) |Easy|Java|String|Adobe, Amazon, Apple, Facebook, Google, Microsoft
 |367  |[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_367.java) |Easy|Java|Binary Search|
