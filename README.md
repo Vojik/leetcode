@@ -97,7 +97,8 @@ LeetCode tasks solutions
 |669  |[Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_669.java) |Medium|Java|Tree, DFS, Recursion|Amazon
 |700  |[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_700.java) |Easy|Java|Binary Tree|Google
 |704  |[Binary Search](https://leetcode.com/problems/binary-search/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_704.java) |Easy|Java|Array, Binary Search|
-|707  |[Design Linked List](https://leetcode.com/problems/design-linked-list/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_707.java) |Medium|Java|LinkedList|
+|705  |[Design HashSet](https://leetcode.com/problems/design-hashset/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_705.java) |Easy|Java|HashMap|
+|707  |[Design Linked List](https://leetcode.com/problems/design-linked-list/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_707.java) |Medium|Java|LinkedList|Amazon
 |724  |[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_724.java) |Easy|Java|Array|Amazon, Apple, Facebook, Google, Microsoft
 |733  |[Flood Fill](https://leetcode.com/problems/flood-fill/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_733.java) |Easy|Java|DFS|
 |739  |[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_739.java) |Medium|Java|Stack|
