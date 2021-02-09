@@ -46,6 +46,7 @@ LeetCode tasks solutions
 |108  |[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_108.java) |Easy|Java|Tree, DFS|Adobe, Apple
 |118  |[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_118.java) |Easy|Java|Array|Amazon, Facebook, Google, Microsoft
 |119  |[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_119.java) |Easy|Java|Array|Adobe, Amazon, Google
+|121  |[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_121.java) |Easy|Java|Array|Facebook
 |125  |[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_125.java) |Easy|Java|String|Amazon, Apple, Facebook, Google, Microsoft
 |133  |[Clone Graph](https://leetcode.com/problems/clone-graph/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_133.java) |Medium|Java|Recursion, DFS, Stack, Queue|
 |136  |[Single Number](https://leetcode.com/problems/single-number/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_136.java) |Easy|Java|HashTable|
