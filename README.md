@@ -110,6 +110,7 @@ LeetCode tasks solutions
 |733  |[Flood Fill](https://leetcode.com/problems/flood-fill/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_733.java) |Easy|Java|DFS|
 |739  |[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_739.java) |Medium|Java|Stack|
 |744  |[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_744.java) |Easy|Java|Array, Binary Search|
+|746  |[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_746.java) |Easy|Java|DP|Amazon
 |747  |[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_747.java) |Easy|Java|Array|
 |752  |[Open the Lock](https://leetcode.com/problems/open-the-lock/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_752.java) |Medium|Java|Queue, BFS|
 |779  |[K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_779.java) |Medium|Java|Recursion|
