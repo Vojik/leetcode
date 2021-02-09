@@ -66,6 +66,7 @@ LeetCode tasks solutions
 |203  |[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_203.java) |Easy|Java|LinkedList|
 |206  |[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_206.java) |Easy|Java|LinkedList|Adobe, Alibaba, Facebook, Google, Microsoft
 |209  |[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_209.java) |Medium|Java|Array|Google, Microsoft
+|217  |[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_217.java) |Easy|Java|Array|Amazon
 |225  |[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_225.java) |Easy|Java|Queue, Stack|
 |232  |[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_234.java) |Easy|Java|Queue, Stack|
 |234  |[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_234.java) |Easy|Java|LinkedList|
