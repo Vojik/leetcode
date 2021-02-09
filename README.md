@@ -63,6 +63,7 @@ LeetCode tasks solutions
 |191  |[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_191.java) |Easy|Java|Bit Manipulation|Amazon, Apple, Google, Microsoft
 |199  |[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_199.java) |Medium|Java|Tree, BFS|Adobe, Google, Amazon
 |200  |[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_200.java) |Medium|Java|DFS,Queue|
+|202  |[Happy Number](https://leetcode.com/problems/happy-number/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_202.java) |Easy|Java|HashMap|Amazon, Apple, Facebook
 |203  |[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_203.java) |Easy|Java|LinkedList|
 |206  |[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_206.java) |Easy|Java|LinkedList|Adobe, Alibaba, Facebook, Google, Microsoft
 |209  |[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_209.java) |Medium|Java|Array|Google, Microsoft
