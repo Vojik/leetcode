@@ -84,6 +84,7 @@ LeetCode tasks solutions
 |344  |[Reverse String](https://leetcode.com/problems/reverse-string/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_344.java) |Easy|Java|String|Adobe, Amazon, Apple, Facebook, Google, Microsoft
 |349  |[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_349.java) |Easy|Java|HashMap|Amazon, Apple, Facebook, Google, Microsoft
 |367  |[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_367.java) |Easy|Java|Binary Search|
+|387  |[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_387.java) |Easy|Java|HashMap|Amazon, Apple, Facebook, Google, Microsoft
 |394  |[Decode String](https://leetcode.com/problems/decode-string/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_394.java) |Medium|Java|DFS, Stack|
 |412  |[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_412.java) |Easy|Java||
 |414  |[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_414.java) |Easy|Java|Array|
