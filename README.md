@@ -92,6 +92,7 @@ LeetCode tasks solutions
 |494  |[Target Sum](https://leetcode.com/problems/target-sum/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_494.java) |Medium|Java|DFS, Recursion|
 |498  |[Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_498.java) |Medium|Java|Array|Facebook, Google
 |509  |[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_509.java) |Easy|Java|Array|Adobe, Amazon, Microsoft
+|538  |[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_538.java) |Medium|Java|Tree|Amazon
 |541  |[Reverse String II](https://leetcode.com/problems/reverse-string-ii/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_541.java) |Easy|Java|String|
 |542  |[01 Matrix](https://leetcode.com/problems/01-matrix/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_542.java) |Medium|Java|BFS|
 |557  |[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_557.java) |Easy|Java|String|Apple, Microsoft
