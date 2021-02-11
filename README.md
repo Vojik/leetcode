@@ -22,6 +22,7 @@ LeetCode tasks solutions
 |34   |[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_34.java) |Medium|Java|Array, Binary Search|
 |36   |[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_36.java) |Medium|Java|Array, HashTable| Amazon, Apple, Facebook, Google, Microsoft
 |37   |[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_37.java) |Hard|Java|Backtracking, HashTable| Amazon
+|49   |[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_49.java) |Medium|Java|HashTable| Adobe, Affirm, Alibaba, Amazon, Apple, Facebook, Google, Microsoft
 |50   |[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_50.java) |Medium|Java|Math, Recursion|Adobe, Alibaba, Amazon, Apple, Facebook, Microsoft
 |52   |[N-Queens II](https://leetcode.com/problems/n-queens-ii/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_52.java) |Hard|Java|Backtracking|
 |54   |[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_54.java) |Medium|Java|Array|Adobe, Amazon, Apple, Facebook, Google, Microsoft
