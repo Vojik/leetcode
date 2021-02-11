@@ -104,6 +104,7 @@ LeetCode tasks solutions
 |594  |[Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_594.java) |Easy|Java|HashMap, Array|
 |599  |[Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_599.java) |Easy|Java|HashMap|Amazon
 |622  |[Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_622.java) |Medium|Java|Queue|
+|652  |[Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_652.java) |Medium|Java|HashTable|Google
 |657  |[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_657.java) |Easy|Java|String|Adobe, Amazon
 |658  |[Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_658.java) |Medium|Java|Array, Binary Search|
 |669  |[Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_669.java) |Medium|Java|Tree, DFS, Recursion|Amazon
