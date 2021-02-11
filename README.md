@@ -50,6 +50,7 @@ LeetCode tasks solutions
 |125  |[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_125.java) |Easy|Java|String|Amazon, Apple, Facebook, Google, Microsoft
 |133  |[Clone Graph](https://leetcode.com/problems/clone-graph/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_133.java) |Medium|Java|Recursion, DFS, Stack, Queue|
 |136  |[Single Number](https://leetcode.com/problems/single-number/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_136.java) |Easy|Java|HashTable|
+|138  |[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_138.java) |Medium|Java|LinkedList|Alibaba, Facebook
 |141  |[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_141.java) |Easy|Java|LinkedList|
 |142  |[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_142.java) |Medium|Java|LinkedList|
 |150  |[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_150.java) |Medium|Java|Stack|
