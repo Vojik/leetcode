@@ -86,6 +86,7 @@ LeetCode tasks solutions
 |284  |[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_284.java) |Medium|Java|Data Structure|Google
 |328  |[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_328.java) |Medium|Java|LinkedList|
 |344  |[Reverse String](https://leetcode.com/problems/reverse-string/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_344.java) |Easy|Java|String|Adobe, Amazon, Apple, Facebook, Google, Microsoft
+|347  |[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_347.java) |Medium|Java|HashMap,Heap|Facebook, Google, Microsoft
 |349  |[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_349.java) |Easy|Java|HashMap|Amazon, Apple, Facebook, Google, Microsoft
 |350  |[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_350.java) |Easy|Java|HashMap|Amazon
 |367  |[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_367.java) |Easy|Java|Binary Search|
