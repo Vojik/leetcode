@@ -141,6 +141,7 @@ LeetCode tasks solutions
 |1295 |[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1295.java) |Easy|Java|Array|
 |1299 |[Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1299.java) |Easy|Java|Array|
 |1315 |[Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1315.java) |Medium|Java|Tree, DFS|
+|1342 |[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1342.java) |Easy|Java|Math|
 |1346 |[Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1346.java) |Easy|Java|Array|
 |1641 |[Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1641.java) |Medium|Java|Backtracking|
 |1688 |[Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1688.java) |Easy|Java|Backtracking|
