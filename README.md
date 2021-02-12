@@ -90,6 +90,7 @@ LeetCode tasks solutions
 |349  |[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_349.java) |Easy|Java|HashMap|Amazon, Apple, Facebook, Google, Microsoft
 |350  |[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_350.java) |Easy|Java|HashMap|Amazon
 |367  |[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_367.java) |Easy|Java|Binary Search|
+|380  |[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_380.java) |Medium|Java|HashTable|Affirm, Amazon
 |387  |[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_387.java) |Easy|Java|HashMap|Amazon, Apple, Facebook, Google, Microsoft
 |394  |[Decode String](https://leetcode.com/problems/decode-string/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_394.java) |Medium|Java|DFS, Stack|
 |412  |[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_412.java) |Easy|Java||
