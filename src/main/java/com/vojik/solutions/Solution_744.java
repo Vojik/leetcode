@@ -57,4 +57,20 @@ public class Solution_744 {
     }
     return left < letters.length ? letters[left] : letters[0];
   }
+
+  public char nextGreatestLetterOptimal(char[] letters, char target) {
+    int left = 0;
+    int right = letters.length;
+
+    while (left < right) {
+      int mid = (left + right) / 2;
+      if (letters[mid] <= target) {
+        left = mid + 1;
+      } else {
+        right = mid;
+      }
+    }
+
+    return letters[left % letters.length];
+  }
 }
