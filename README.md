@@ -117,6 +117,7 @@ LeetCode tasks solutions
 |658  |[Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_658.java) |Medium|Java|Array, Binary Search|
 |669  |[Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_669.java) |Medium|Java|Tree, DFS, Recursion|Amazon
 |700  |[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_700.java) |Easy|Java|Binary Tree|Google
+|701  |[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_701.java) |Medium|Java|Binary Tree|Microsoft
 |704  |[Binary Search](https://leetcode.com/problems/binary-search/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_704.java) |Easy|Java|Array, Binary Search|
 |705  |[Design HashSet](https://leetcode.com/problems/design-hashset/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_705.java) |Easy|Java|HashMap|
 |706  |[Design HashMap](https://leetcode.com/problems/design-hashmap/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_706.java) |Easy|Java|HashMap|Adobe, Amazon, Apple, Microsoft
