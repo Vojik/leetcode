@@ -132,6 +132,7 @@ LeetCode tasks solutions
 |752  |[Open the Lock](https://leetcode.com/problems/open-the-lock/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_752.java) |Medium|Java|Queue, BFS|
 |771  |[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_771.java) |Easy|Java|HashTable|Adobe, Alibaba, Amazon, Apple, Google
 |779  |[K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_779.java) |Medium|Java|Recursion|
+|784  |[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_784.java) |Medium|Java|Backtracking|Microsoft
 |785  |[Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_785.java) |Medium|Java|Tree|Amazon, Apple, Facebook, Google, Microsoft
 |819  |[Most Common Word](https://leetcode.com/problems/most-common-word/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_819.java) |Easy|Java|HashMap, String|
 |821  |[Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_821.java) |Easy|Java|Array|Google
