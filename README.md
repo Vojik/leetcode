@@ -98,6 +98,7 @@ LeetCode tasks solutions
 |387  |[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_387.java) |Easy|Java|HashMap|Amazon, Apple, Facebook, Google, Microsoft
 |394  |[Decode String](https://leetcode.com/problems/decode-string/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_394.java) |Medium|Java|DFS, Stack|
 |412  |[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_412.java) |Easy|Java||
+|413  |[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_413.java) |Medium|Java|Array, DP|
 |414  |[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_414.java) |Easy|Java|Array|
 |448  |[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_448.java) |Easy|Java|Array|
 |450  |[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_450.java) |Medium|Java|Tree|Google
