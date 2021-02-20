@@ -80,6 +80,7 @@ LeetCode tasks solutions
 |225  |[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_225.java) |Easy|Java|Queue, Stack|
 |232  |[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_234.java) |Easy|Java|Queue, Stack|
 |234  |[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_234.java) |Easy|Java|LinkedList|
+|235  |[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_235.java) |Easy|Java|Tree|Adobe
 |237  |[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_237.java) |Easy|Java|LinkedList|
 |240  |[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_240.java) |Medium|Java|Recursion|Amazon, Facebook, Google, Microsoft
 |242  |[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_242.java) |Easy|Java|HashTable|Amazon, Apple, Facebook, Google, Microsoft
@@ -104,7 +105,7 @@ LeetCode tasks solutions
 |450  |[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_450.java) |Medium|Java|Tree|Google
 |454  |[4Sum II](https://leetcode.com/problems/4sum-ii/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_454.java) |Medium|Java|HashTable|Amazon
 |485  |[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_485.java) |Easy|Java|Array|Amazon
-|494  |[Target Sum](https://leetcode.com/problems/target-sum/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_494.java) |Medium|Java|DFS, Recursion|
+|494  |[Target Sum](https://leetcode.com/problems/target-sum/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_494.java) |Medium|Java|DFS, Recursion|Facebook, Google
 |498  |[Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_498.java) |Medium|Java|Array|Facebook, Google
 |509  |[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_509.java) |Easy|Java|Array|Adobe, Amazon, Microsoft
 |538  |[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_538.java) |Medium|Java|Tree|Amazon
