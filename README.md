@@ -142,6 +142,7 @@ LeetCode tasks solutions
 |821  |[Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_821.java) |Easy|Java|Array|Google
 |841  |[Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_841.java) |Medium|Java|Queue, Stack|
 |844  |[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_844.java) |Easy|Java|Stack,String|
+|881  |[Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_881.java) |Medium|Java|Two Pointers|Google
 |905  |[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_905.java) |Easy|Java|Array|
 |912  |[Sort an Array](https://leetcode.com/problems/sort-an-array/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_912.java) |Medium|Java|Recursion, Queue|
 |941  |[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_941.java) |Easy|Java|Array|
