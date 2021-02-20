@@ -150,6 +150,7 @@ LeetCode tasks solutions
 |1089 |[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1089.java) |Easy|Java|Array|
 |1091 |[Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1091.java) |Medium|Java|BFS|
 |1295 |[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1295.java) |Easy|Java|Array|
+|1249 |[Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1249.java) |Medium|Java|String, Stack|Facebook
 |1299 |[Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1299.java) |Easy|Java|Array|
 |1315 |[Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1315.java) |Medium|Java|Tree, DFS|
 |1337 |[The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1337.java) |Easy|Java|Heap, Binary Search|
