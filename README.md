@@ -30,6 +30,7 @@ LeetCode tasks solutions
 |52   |[N-Queens II](https://leetcode.com/problems/n-queens-ii/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_52.java) |Hard|Java|Backtracking|
 |54   |[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_54.java) |Medium|Java|Array|Adobe, Amazon, Apple, Facebook, Google, Microsoft
 |61   |[Rotate List](https://leetcode.com/problems/rotate-list/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_61.java) |Medium|Java|LinkedList|
+|62   |[Unique Paths](https://leetcode.com/problems/unique-paths/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_62.java) |Medium|Java|DP|Alibaba, Amazon, Apple, Facebook, Google, Microsoft
 |64   |[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_64.java) |Medium|Java|DP|Adobe, Amazon, Google, Microsoft
 |66   |[Plus One](https://leetcode.com/problems/plus-one/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_66.java) |Easy|Java|Array|Amazon, Facebook, Google, Microsoft
 |67   |[Add Binary](https://leetcode.com/problems/add-binary/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_67.java) |Easy|Java|Array|Adobe, Amazon, Facebook, Google, Microsoft
