@@ -77,6 +77,7 @@ LeetCode tasks solutions
 |203  |[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_203.java) |Easy|Java|LinkedList|
 |205  |[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_205.java) |Easy|Java|HashMap|Amazon, Google
 |206  |[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_206.java) |Easy|Java|LinkedList|Adobe, Alibaba, Facebook, Google, Microsoft
+|208  |[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_208.java) |Medium|Java|Trie|Amazon
 |209  |[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_209.java) |Medium|Java|Array|Google, Microsoft
 |217  |[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_217.java) |Easy|Java|HashMap|Amazon
 |219  |[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_219.java) |Easy|Java|HashMap|Adobe, Google
