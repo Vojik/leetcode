@@ -88,6 +88,7 @@ LeetCode tasks solutions
 |237  |[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_237.java) |Easy|Java|LinkedList|
 |240  |[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_240.java) |Medium|Java|Recursion|Amazon, Facebook, Google, Microsoft
 |242  |[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_242.java) |Easy|Java|HashTable|Amazon, Apple, Facebook, Google, Microsoft
+|268  |[Missing Number](https://leetcode.com/problems/missing-number/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_268.java) |Easy|Java|Array|Adobe, Amazon, Apple
 |278  |[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_278.java) |Easy|Java|Binary Search|
 |279  |[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_279.java) |Medium|Java|Queue|
 |283  |[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_283.java) |Easy|Java|Array|
