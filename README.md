@@ -123,6 +123,7 @@ LeetCode tasks solutions
 |594  |[Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_594.java) |Easy|Java|HashMap, Array|
 |599  |[Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_599.java) |Easy|Java|HashMap|Amazon
 |622  |[Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_622.java) |Medium|Java|Queue|
+|637  |[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_637.java) |Easy|Java|BFS|Amazon, Facebook
 |645  |[Set Mismatch](https://leetcode.com/problems/set-mismatch/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_645.java) |Easy|Java|Array|
 |652  |[Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_652.java) |Medium|Java|HashTable|Google
 |657  |[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_657.java) |Easy|Java|String|Adobe, Amazon
