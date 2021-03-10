@@ -11,6 +11,7 @@ LeetCode tasks solutions
 |3    |[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_3.java) |Medium|Java|HashTable|Akuna Capital, Alibaba
 |4    |[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_4.java) |Hard|Java|Binary Search|Alibaba, Apple
 |11   |[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_11.java) |Medium|Java|Array, Two Pointers|Airbnb, Alibaba
+|12   |[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_12.java) |Medium|Java|Math, String|Adobe, Amazon, Apple, Google, Microsoft
 |13   |[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_13.java) |Easy|Java|Array|Adobe, Amazon, Apple, Facebook, Google, Microsoft
 |14   |[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_14.java) |Easy|Java|String|Adobe, Apple, Google, Microsoft
 |19   |[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_19.java) |Medium|Java|LinkedList|
