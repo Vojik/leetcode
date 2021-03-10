@@ -125,6 +125,7 @@ LeetCode tasks solutions
 |622  |[Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_622.java) |Medium|Java|Queue|
 |637  |[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_637.java) |Easy|Java|BFS|Amazon, Facebook
 |645  |[Set Mismatch](https://leetcode.com/problems/set-mismatch/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_645.java) |Easy|Java|Array|
+|647  |[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_647.java) |Medium|Java|String, DP|Adobe, Amazon, Facebook, Google, Microsoft
 |652  |[Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_652.java) |Medium|Java|HashTable|Google
 |657  |[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_657.java) |Easy|Java|String|Adobe, Amazon
 |658  |[Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_658.java) |Medium|Java|Array, Binary Search|
