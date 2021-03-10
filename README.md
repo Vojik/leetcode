@@ -130,6 +130,7 @@ LeetCode tasks solutions
 |657  |[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_657.java) |Easy|Java|String|Adobe, Amazon
 |658  |[Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_658.java) |Medium|Java|Array, Binary Search|
 |669  |[Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_669.java) |Medium|Java|Tree, DFS, Recursion|Amazon
+|677  |[Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_677.java) |Medium|Java|Trie|
 |700  |[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_700.java) |Easy|Java|Binary Tree|Google
 |701  |[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_701.java) |Medium|Java|Binary Tree|Microsoft
 |703  |[Kth Largest Element in a Stream](https://leetcode.com/problems/binary-search/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_703.java) |Easy|Java|BST, PriorityQueue|Amazon, Facebook, Google
