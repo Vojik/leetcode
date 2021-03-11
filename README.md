@@ -80,6 +80,7 @@ LeetCode tasks solutions
 |206  |[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_206.java) |Easy|Java|LinkedList|Adobe, Alibaba, Facebook, Google, Microsoft
 |208  |[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_208.java) |Medium|Java|Trie|Amazon
 |209  |[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_209.java) |Medium|Java|Array|Google, Microsoft
+|211  |[Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_211.java) |Medium|Java|Trie|Facebook
 |217  |[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_217.java) |Easy|Java|HashMap|Amazon
 |219  |[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_219.java) |Easy|Java|HashMap|Adobe, Google
 |225  |[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_225.java) |Easy|Java|Queue, Stack|
