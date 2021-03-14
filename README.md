@@ -156,6 +156,7 @@ LeetCode tasks solutions
 |819  |[Most Common Word](https://leetcode.com/problems/most-common-word/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_819.java) |Easy|Java|HashMap, String|
 |820  |[Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_820.java) |Medium|Java|Array,Trie|
 |821  |[Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_821.java) |Easy|Java|Array|Google
+|823  |[Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/solution/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_823.java) |Medium|Java|DP|
 |841  |[Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_841.java) |Medium|Java|Queue, Stack|
 |844  |[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_844.java) |Easy|Java|Stack,String|
 |881  |[Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_881.java) |Medium|Java|Two Pointers|Google
