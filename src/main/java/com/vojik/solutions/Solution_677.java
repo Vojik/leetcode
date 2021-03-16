@@ -1,5 +1,6 @@
 package com.vojik.solutions;
 
+import com.vojik.helpers.TreeNode_677;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -8,14 +9,14 @@ import java.util.Map;
  */
 public class Solution_677 {
 
-  private TreeNode root;
+  private TreeNode_677 root;
   private Map<String, Integer> map;
 
   /**
    * Initialize your data structure here.
    */
   public Solution_677() {
-    this.root = new TreeNode();
+    this.root = new TreeNode_677();
     this.map = new HashMap<>();
   }
 
@@ -25,11 +26,11 @@ public class Solution_677 {
       diff = val - map.get(key);
     }
     map.put(key, val);
-    TreeNode root = this.root;
+    TreeNode_677 root = this.root;
     for (int i = 0; i < key.length(); i++) {
-      TreeNode node = root.children[key.charAt(i) - 'a'];
+      TreeNode_677 node = root.children[key.charAt(i) - 'a'];
       if (node == null) {
-        node = new TreeNode();
+        node = new TreeNode_677();
       }
       node.sum += diff;
       root.children[key.charAt(i) - 'a'] = node;
@@ -38,9 +39,9 @@ public class Solution_677 {
   }
 
   public int sum(String prefix) {
-    TreeNode root = this.root;
+    TreeNode_677 root = this.root;
     for (int i = 0; i < prefix.length(); i++) {
-      TreeNode node = root.children[prefix.charAt(i) - 'a'];
+      TreeNode_677 node = root.children[prefix.charAt(i) - 'a'];
       if (node == null) {
         return 0;
       }
@@ -49,15 +50,4 @@ public class Solution_677 {
     return root.sum;
   }
 
-}
-
-class TreeNode {
-
-  TreeNode[] children;
-  int sum;
-
-  public TreeNode() {
-    this.children = new TreeNode[26];
-    this.sum = 0;
-  }
 }

@@ -1,12 +1,14 @@
 package com.vojik.solutions;
 
+import com.vojik.helpers.TreeNode_703;
+
 /**
  * 703. Kth Largest Element in a Stream
  */
 public class Solution_703 {
 
   int k;
-  TreeNode root;
+  TreeNode_703 root;
 
   public Solution_703(int k, int[] nums) {
     this.k = k;
@@ -20,9 +22,9 @@ public class Solution_703 {
     return search(this.root, this.k);
   }
 
-  private TreeNode insert(TreeNode node, int val) {
+  private TreeNode_703 insert(TreeNode_703 node, int val) {
     if (node == null) {
-      return new TreeNode(val);
+      return new TreeNode_703(val);
     }
     if (node.val > val) {
       node.left = insert(node.left, val);
@@ -33,7 +35,7 @@ public class Solution_703 {
     return node;
   }
 
-  private int search(TreeNode node, int k) {
+  private int search(TreeNode_703 node, int k) {
     int rightSubTreeCount = node.right != null ? node.right.subTreeCount : 0;
     if (k == rightSubTreeCount + 1) {
       return node.val;
@@ -44,14 +46,4 @@ public class Solution_703 {
     }
   }
 
-  static class TreeNode {
-    int val;
-    int subTreeCount = 1;
-    TreeNode left;
-    TreeNode right;
-
-    TreeNode(int val) {
-      this.val = val;
-    }
-  }
 }
