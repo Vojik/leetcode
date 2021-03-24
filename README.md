@@ -110,6 +110,7 @@ LeetCode tasks solutions
 |413  |[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_413.java) |Medium|Java|Array, DP|
 |414  |[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_414.java) |Easy|Java|Array|
 |421  |[Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_421.java) |Medium|Java|Bit|
+|424  |[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_424.java) |Medium|Java|Sliding Window|Google
 |448  |[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_448.java) |Easy|Java|Array|
 |450  |[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_450.java) |Medium|Java|Tree|Google
 |454  |[4Sum II](https://leetcode.com/problems/4sum-ii/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_454.java) |Medium|Java|HashTable|Amazon
