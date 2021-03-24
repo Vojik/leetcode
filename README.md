@@ -180,6 +180,7 @@ LeetCode tasks solutions
 |1337 |[The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1337.java) |Easy|Java|Heap, Binary Search|
 |1342 |[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1342.java) |Easy|Java|Math|
 |1346 |[Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1346.java) |Easy|Java|Array|
+|1396 |[Design Underground System](https://leetcode.com/problems/design-underground-system/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1396.java) |Medium|Java|Design|
 |1431 |[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1431.java) |Easy|Java|Array|
 |1480 |[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1480.java) |Easy|Java|Array|
 |1641 |[Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1641.java) |Medium|Java|Backtracking|
