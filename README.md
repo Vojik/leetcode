@@ -157,6 +157,7 @@ LeetCode tasks solutions
 |779  |[K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_779.java) |Medium|Java|Recursion|
 |784  |[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_784.java) |Medium|Java|Backtracking|Microsoft
 |785  |[Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_785.java) |Medium|Java|Tree|Amazon, Apple, Facebook, Google, Microsoft
+|811  |[Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_811.java) |Easy|Java|HashMap, String|Karat, Wayfair, Indeed, Intuit, Pinterest, Roblox
 |819  |[Most Common Word](https://leetcode.com/problems/most-common-word/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_819.java) |Easy|Java|HashMap, String|
 |820  |[Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_820.java) |Medium|Java|Array,Trie|
 |821  |[Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_821.java) |Easy|Java|Array|Google
