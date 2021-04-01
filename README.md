@@ -186,6 +186,7 @@ LeetCode tasks solutions
 |1480 |[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1480.java) |Easy|Java|Array|
 |1641 |[Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1641.java) |Medium|Java|Backtracking|
 |1688 |[Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1688.java) |Easy|Java|Backtracking|
+|1718 |[Construct the Lexicographically Largest Valid Sequence](https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1718.java) |Medium|Java|Backtracking|Salesforce
 |1721 |[Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1721.java) |Medium|Java|LinkedList|
 
 ### Data Structure
