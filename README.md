@@ -35,6 +35,7 @@ LeetCode tasks solutions
 |64   |[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_64.java) |Medium|Java|DP|Adobe, Amazon, Google, Microsoft
 |66   |[Plus One](https://leetcode.com/problems/plus-one/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_66.java) |Easy|Java|Array|Amazon, Facebook, Google, Microsoft
 |67   |[Add Binary](https://leetcode.com/problems/add-binary/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_67.java) |Easy|Java|Array|Adobe, Amazon, Facebook, Google, Microsoft
+|67   |[Text Justification](https://leetcode.com/problems/text-justification/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_68.java) |Hard|Java|Array|Uber, LinkedIn, Google, Twitter, Netflix
 |69   |[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_69.java) |Easy|Java|Binary Search|
 |70   |[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_70.java) |Easy|Java|Recursion|Adobe, Alibaba, Amazon, Apple, Facebook, Microsoft
 |71   |[Simplify Path](https://leetcode.com/problems/climbing-stairs/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_71.java) |Medium|Java|Array, Stack|Adobe, Amazon, Facebook, Microsoft
