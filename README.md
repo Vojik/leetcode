@@ -176,6 +176,7 @@ LeetCode tasks solutions
 |977  |[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_977.java) |Easy|Java|Array|
 |991  |[Broken Calculator](https://leetcode.com/problems/broken-calculator/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_991.java) |Medium|Java|Math, Greedy|
 |1038 |[Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1038.java) |Medium|Java|Tree|Amazon
+|1041 |[Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1041.java) |Medium|Java|Math|Amazon
 |1051 |[Height Checker](https://leetcode.com/problems/height-checker/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1051.java) |Easy|Java|Array|
 |1089 |[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1089.java) |Easy|Java|Array|
 |1091 |[Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1091.java) |Medium|Java|BFS|
