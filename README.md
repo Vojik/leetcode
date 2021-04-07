@@ -31,6 +31,7 @@ LeetCode tasks solutions
 |50   |[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_50.java) |Medium|Java|Math, Recursion|Adobe, Alibaba, Amazon, Apple, Facebook, Microsoft
 |52   |[N-Queens II](https://leetcode.com/problems/n-queens-ii/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_52.java) |Hard|Java|Backtracking|
 |54   |[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_54.java) |Medium|Java|Array|Adobe, Amazon, Apple, Facebook, Google, Microsoft
+|56   |[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_56.java) |Medium|Java|Array|Adobe, Amazon, Apple, Facebook, Uber, Microsoft, Twitter
 |61   |[Rotate List](https://leetcode.com/problems/rotate-list/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_61.java) |Medium|Java|LinkedList|
 |62   |[Unique Paths](https://leetcode.com/problems/unique-paths/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_62.java) |Medium|Java|DP|Alibaba, Amazon, Apple, Facebook, Google, Microsoft
 |64   |[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_64.java) |Medium|Java|DP|Adobe, Amazon, Google, Microsoft
