@@ -191,6 +191,7 @@ LeetCode tasks solutions
 |1396 |[Design Underground System](https://leetcode.com/problems/design-underground-system/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1396.java) |Medium|Java|Design|
 |1431 |[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1431.java) |Easy|Java|Array|
 |1480 |[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1480.java) |Easy|Java|Array|
+|1578 |[Minimum Deletion Cost to Avoid Repeating Letters](https://leetcode.com/problems/minimum-deletion-cost-to-avoid-repeating-letters/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1578.java) |Easy|Java|String, Greedy|
 |1641 |[Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1641.java) |Medium|Java|Backtracking|
 |1647 |[Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1647.java) |Medium|Java|String, Sort|Microsoft, Amazon, Apple
 |1688 |[Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1688.java) |Easy|Java|Backtracking|
