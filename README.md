@@ -96,6 +96,7 @@ LeetCode tasks solutions
 |242  |[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_242.java) |Easy|Java|HashTable|Amazon, Apple, Facebook, Google, Microsoft
 |252  |[Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_252.java) |Easy|Java|Sort|Amazon, Adobe, Facebook, Microsoft, Karat, Bloomberg
 |268  |[Missing Number](https://leetcode.com/problems/missing-number/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_268.java) |Easy|Java|Array|Adobe, Amazon, Apple
+|273  |[Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_279.java) |Hard|Java|Math, String|Facebook, Amazon, Microsoft
 |278  |[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_278.java) |Easy|Java|Binary Search|
 |279  |[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_279.java) |Medium|Java|Queue|
 |283  |[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_283.java) |Easy|Java|Array|
