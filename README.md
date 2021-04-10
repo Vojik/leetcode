@@ -96,6 +96,7 @@ LeetCode tasks solutions
 |240  |[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_240.java) |Medium|Java|Recursion|Amazon, Facebook, Google, Microsoft
 |242  |[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_242.java) |Easy|Java|HashTable|Amazon, Apple, Facebook, Google, Microsoft
 |252  |[Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_252.java) |Easy|Java|Sort|Amazon, Adobe, Facebook, Microsoft, Karat, Bloomberg
+|266  |[Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_266.java) |Easy|Java|HastTable|Facebook, Microsoft
 |268  |[Missing Number](https://leetcode.com/problems/missing-number/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_268.java) |Easy|Java|Array|Adobe, Amazon, Apple
 |273  |[Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_279.java) |Hard|Java|Math, String|Facebook, Amazon, Microsoft
 |278  |[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_278.java) |Easy|Java|Binary Search|
