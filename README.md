@@ -30,6 +30,7 @@ LeetCode tasks solutions
 |49   |[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_49.java) |Medium|Java|HashTable| Adobe, Affirm, Alibaba, Amazon, Apple, Facebook, Google, Microsoft
 |50   |[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_50.java) |Medium|Java|Math, Recursion|Adobe, Alibaba, Amazon, Apple, Facebook, Microsoft
 |52   |[N-Queens II](https://leetcode.com/problems/n-queens-ii/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_52.java) |Hard|Java|Backtracking|
+|53   |[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_53.java) |Easy|Java|DP|Microsoft, Amazon, Apple, LinkedIn, Google, Adobe, Facebook
 |54   |[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_54.java) |Medium|Java|Array|Adobe, Amazon, Apple, Facebook, Google, Microsoft
 |56   |[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_56.java) |Medium|Java|Array|Adobe, Amazon, Apple, Facebook, Uber, Microsoft, Twitter
 |61   |[Rotate List](https://leetcode.com/problems/rotate-list/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_61.java) |Medium|Java|LinkedList|
