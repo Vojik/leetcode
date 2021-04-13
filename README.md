@@ -105,6 +105,7 @@ LeetCode tasks solutions
 |283  |[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_283.java) |Easy|Java|Array|
 |284  |[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_284.java) |Medium|Java|Data Structure|Google
 |287  |[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_287.java) |Medium|Java|HashTable, Binary Search|Adobe, Amazon, Google, Microsoft
+|295  |[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_295.java) |Hard|Java|Heap|Amazon, Facebook, Microsoft, Google, Apple, eBay, Salesforce, Nvidia, Uber, Adobe
 |328  |[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_328.java) |Medium|Java|LinkedList|
 |344  |[Reverse String](https://leetcode.com/problems/reverse-string/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_344.java) |Easy|Java|String|Adobe, Amazon, Apple, Facebook, Google, Microsoft
 |347  |[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_347.java) |Medium|Java|HashMap,Heap|Facebook, Google, Microsoft
