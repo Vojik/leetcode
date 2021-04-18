@@ -190,6 +190,7 @@ LeetCode tasks solutions
 |1051 |[Height Checker](https://leetcode.com/problems/height-checker/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1051.java) |Easy|Java|Array|
 |1089 |[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1089.java) |Easy|Java|Array|
 |1091 |[Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1091.java) |Medium|Java|BFS|
+|1110 |[Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1110.java) |Medium|Java|DFS|Google, Amazon, Facebook, Salesforce
 |1239 |[Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1239.java) |Medium|Java|Backtracking|Tesla, Microsoft
 |1295 |[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1295.java) |Easy|Java|Array|
 |1249 |[Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1249.java) |Medium|Java|String, Stack|Facebook
