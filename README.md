@@ -179,6 +179,7 @@ LeetCode tasks solutions
 |881  |[Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_881.java) |Medium|Java|Two Pointers|Google
 |905  |[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_905.java) |Easy|Java|Array|
 |912  |[Sort an Array](https://leetcode.com/problems/sort-an-array/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_912.java) |Medium|Java|Recursion, Queue|
+|937  |[Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_937.java) |Easy|Java|Amazon|
 |938  |[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_938.java) |Easy|Java|DFS, Recursion|Facebook, Google
 |941  |[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_941.java) |Easy|Java|Array|
 |946  |[Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_946.java) |Medium|Java|Array, Stack|
