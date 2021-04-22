@@ -186,6 +186,7 @@ LeetCode tasks solutions
 |977  |[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_977.java) |Easy|Java|Array|
 |989  |[Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_989.java) |Easy|Java|Array|Facebook
 |991  |[Broken Calculator](https://leetcode.com/problems/broken-calculator/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_991.java) |Medium|Java|Math, Greedy|
+|1010 |[Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1010.java) |Medium|Java|Array|Amazon
 |1038 |[Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1038.java) |Medium|Java|Tree|Amazon
 |1041 |[Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1041.java) |Medium|Java|Math|Amazon
 |1051 |[Height Checker](https://leetcode.com/problems/height-checker/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1051.java) |Easy|Java|Array|
