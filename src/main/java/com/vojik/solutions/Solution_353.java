@@ -1,6 +1,8 @@
 package com.vojik.solutions;
 
 // not working correctly
+
+/** 353. Design Snake Game */
 public class Solution_353 {
 
   private int[][] board;
