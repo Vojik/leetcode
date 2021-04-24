@@ -162,6 +162,7 @@ LeetCode tasks solutions
 |724  |[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_724.java) |Easy|Java|Array|Amazon, Apple, Facebook, Google, Microsoft
 |733  |[Flood Fill](https://leetcode.com/problems/flood-fill/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_733.java) |Easy|Java|DFS|
 |739  |[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_739.java) |Medium|Java|Stack|
+|743  |[Network Delay Time](https://leetcode.com/problems/network-delay-time/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_743.java) |Medium|Java|Graph, Heap, Dijkstra| Amazon
 |744  |[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_744.java) |Easy|Java|Array, Binary Search|
 |746  |[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_746.java) |Easy|Java|DP|Amazon
 |747  |[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_747.java) |Easy|Java|Array|
