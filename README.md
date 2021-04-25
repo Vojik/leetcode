@@ -122,6 +122,7 @@ LeetCode tasks solutions
 |412  |[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_412.java) |Easy|Java||
 |413  |[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_413.java) |Medium|Java|Array, DP|
 |414  |[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_414.java) |Easy|Java|Array|
+|415  |[Add Strings](https://leetcode.com/problems/add-strings/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_415.java) |Easy|Java|String|Facebook, Google, Adobe, Microsoft, Wayfair, Square, Uber, Amazon
 |421  |[Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_421.java) |Medium|Java|Bit|
 |424  |[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_424.java) |Medium|Java|Sliding Window|Google
 |448  |[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_448.java) |Easy|Java|Array|
