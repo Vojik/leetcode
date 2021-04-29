@@ -190,6 +190,7 @@ LeetCode tasks solutions
 |938  |[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_938.java) |Easy|Java|DFS, Recursion|Facebook, Google
 |941  |[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_941.java) |Easy|Java|Array|
 |946  |[Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_946.java) |Medium|Java|Array, Stack|
+|973  |[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_973.java) |Medium|Java|Heap, Sort| Facebook, Amazon, Doordash, LinkedIn, Google, Uber
 |977  |[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_977.java) |Easy|Java|Array|
 |989  |[Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_989.java) |Easy|Java|Array|Facebook
 |991  |[Broken Calculator](https://leetcode.com/problems/broken-calculator/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_991.java) |Medium|Java|Math, Greedy|
