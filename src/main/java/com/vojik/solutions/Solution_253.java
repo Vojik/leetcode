@@ -6,6 +6,20 @@ import java.util.PriorityQueue;
 
 /**
  * 253. Meeting Rooms II
+ *
+ * <p>Given an array of meeting time intervals intervals where intervals[i] = [starti, endi], return
+ * the minimum number of conference rooms required.
+ *
+ * <p>Example 1:
+ *
+ * <p>Input: intervals = [[0,30],[5,10],[15,20]] Output: 2 Example 2:
+ *
+ * <p>Input: intervals = [[7,10],[2,4]] Output: 1
+ *
+ * <p>Constraints:
+ *
+ * <p>1 <= intervals.length <= 104
+ * <p>0 <= start(i) < end(i) <= 106
  */
 public class Solution_253 {
 
