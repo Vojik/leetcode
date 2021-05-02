@@ -66,6 +66,7 @@ LeetCode tasks solutions
 |138  |[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_138.java) |Medium|Java|LinkedList|Alibaba, Facebook
 |141  |[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_141.java) |Easy|Java|LinkedList|
 |142  |[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_142.java) |Medium|Java|LinkedList|
+|146  |[LRU Cache](https://leetcode.com/problems/lru-cache/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_146.java) |Medium|Java|Design|Amazon, Microsoft, Facebook, Apple, Intuit, Snapchat,, Google, Uber, Dropbox, Adobe
 |150  |[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_150.java) |Medium|Java|Stack|
 |151  |[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_151.java) |Medium|Java|String|Facebook
 |152  |[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_152.java) |Medium|Java|Array, Dynamic Programming|
