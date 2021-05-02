@@ -18,6 +18,7 @@ LeetCode tasks solutions
 |20   |[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/submissions/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_20.java) |Easy|Java|Stack|
 |21   |[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_21.java) |Easy|Java|LinkedList|
 |22   |[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_22.java) |Medium|Java|String,Backtracking|Adobe, Aetion
+|23   |[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_23.java) |Hard|Java|Heap|Amazon, Facebook, Microsoft, Apple, Google, Twitter
 |24   |[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_24.java) |Medium|Java|LinkedList|Adobe, Amazon, Google
 |26   |[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_26.java) |Easy|Java|Array|
 |27   |[Remove Element](https://leetcode.com/problems/remove-element/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_27.java) |Easy|Java|Array|Amazon, Google
