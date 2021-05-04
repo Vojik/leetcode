@@ -204,6 +204,7 @@ LeetCode tasks solutions
 |1089 |[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1089.java) |Easy|Java|Array|
 |1091 |[Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1091.java) |Medium|Java|BFS|
 |1110 |[Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1110.java) |Medium|Java|DFS|Google, Amazon, Facebook, Salesforce
+|1114 |[Print in Order](https://leetcode.com/problems/print-in-order/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1114.java) |Easy|Java|Concurrency|Microsoft
 |1120 |[Maximum Average Subtree](https://leetcode.com/problems/design-snake-game/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1120.java) |Medium|Java|DFS|Amazon, Facebook
 |1167 |[Minimum Cost to Connect Sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1167.java) |Medium|Java|Heap|Amazon
 |1229 |[Meeting Scheduler](https://leetcode.com/problems/meeting-scheduler/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1229.java) |Medium|Java|Two Pointers, Heap|DoorDash,Amazon
