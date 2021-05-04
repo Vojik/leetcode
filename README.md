@@ -207,6 +207,7 @@ LeetCode tasks solutions
 |1114 |[Print in Order](https://leetcode.com/problems/print-in-order/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1114.java) |Easy|Java|Concurrency|Microsoft
 |1120 |[Maximum Average Subtree](https://leetcode.com/problems/design-snake-game/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1120.java) |Medium|Java|DFS|Amazon, Facebook
 |1167 |[Minimum Cost to Connect Sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1167.java) |Medium|Java|Heap|Amazon
+|1188 |[Design Bounded Blocking Queue](https://leetcode.com/problems/design-bounded-blocking-queue/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1188.java) |Medium|Java|Concurrency|LinkedIn,Apple,Microsoft
 |1229 |[Meeting Scheduler](https://leetcode.com/problems/meeting-scheduler/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1229.java) |Medium|Java|Two Pointers, Heap|DoorDash,Amazon
 |1239 |[Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1239.java) |Medium|Java|Backtracking|Tesla, Microsoft
 |1295 |[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1295.java) |Easy|Java|Array|
