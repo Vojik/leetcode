@@ -130,6 +130,7 @@ LeetCode tasks solutions
 |415  |[Add Strings](https://leetcode.com/problems/add-strings/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_415.java) |Easy|Java|String|Facebook, Google, Adobe, Microsoft, Wayfair, Square, Uber, Amazon
 |421  |[Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_421.java) |Medium|Java|Bit|
 |424  |[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_424.java) |Medium|Java|Sliding Window|Google
+|443  |[String Compression](https://leetcode.com/problems/string-compression/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_443.java) |Medium|Java|String|Microsoft, Apple, Facebook, Amazon, Google
 |448  |[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_448.java) |Easy|Java|Array|
 |450  |[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_450.java) |Medium|Java|Tree|Google
 |454  |[4Sum II](https://leetcode.com/problems/4sum-ii/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_454.java) |Medium|Java|HashTable|Amazon
