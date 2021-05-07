@@ -119,6 +119,7 @@ LeetCode tasks solutions
 |347  |[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_347.java) |Medium|Java|HashMap,Heap|Facebook, Google, Microsoft
 |349  |[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_349.java) |Easy|Java|HashMap|Amazon, Apple, Facebook, Google, Microsoft
 |350  |[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_350.java) |Easy|Java|HashMap|Amazon
+|359  |[Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_359.java) |Easy|Java|HashMap|Google, Apple
 |367  |[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_367.java) |Easy|Java|Binary Search|
 |369  |[Plus One Linked List](https://leetcode.com/problems/plus-one-linked-list/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_369.java) |Medium|Java|LinkedList|Google, Amazon
 |376  |[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_376.java) |Medium|Java|DP|
