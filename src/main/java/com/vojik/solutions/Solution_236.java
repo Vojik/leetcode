@@ -1,6 +1,8 @@
 package com.vojik.solutions;
 
 import com.vojik.helpers.TreeNode;
+import java.util.HashMap;
+import java.util.Map;
 import java.util.Stack;
 
 public class Solution_236 {
@@ -39,5 +41,38 @@ public class Solution_236 {
     }
     stack.pop();
     return false;
+  }
+
+  // Time complexity: O(N)
+  // Space complexity: O(N)
+  public TreeNode lowestCommonAncestor2(TreeNode root, TreeNode p, TreeNode q) {
+    Map<TreeNode,TreeNode> parents = new HashMap<>();
+    Stack<TreeNode> stack = new Stack<>();
+
+    parents.put(root, null);
+    stack.push(root);
+
+    while (!parents.containsKey(p) || !parents.containsKey(q)) {
+      TreeNode node = stack.pop();
+
+      if (node.left != null) {
+        parents.put(node.left, node);
+        stack.push(node.left);
+      }
+
+      if (node.right != null) {
+        parents.put(node.right, node);
+        stack.push(node.right);
+      }
+    }
+
+    TreeNode a = p;
+    TreeNode b = q;
+
+    while (a != b) {
+      a = a == null ? q : parents.get(a);
+      b = b == null ? p : parents.get(b);
+    }
+    return a;
   }
 }
