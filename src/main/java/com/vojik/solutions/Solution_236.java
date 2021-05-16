@@ -5,6 +5,9 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Stack;
 
+/**
+ * 236. Lowest Common Ancestor of a Binary Tree
+ */
 public class Solution_236 {
 
   public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
