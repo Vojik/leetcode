@@ -164,6 +164,7 @@ LeetCode tasks solutions
 |658  |[Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_658.java) |Medium|Java|Array, Binary Search|
 |669  |[Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_669.java) |Medium|Java|Tree, DFS, Recursion|Amazon
 |677  |[Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_677.java) |Medium|Java|Trie|
+|690  |[Employee Importance](https://leetcode.com/problems/employee-importance/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_690.java) |Medium|Java|Tree, HashTable|Google
 |695  |[Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_695.java) |Medium|Java|Tree|DoorDash, Google, Amazon, Facebook, Microsoft
 |700  |[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_700.java) |Easy|Java|Binary Tree|Google
 |701  |[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_701.java) |Medium|Java|Binary Tree|Microsoft
