@@ -238,6 +238,7 @@ LeetCode tasks solutions
 |1710 |[Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1710.java) |Easy|Java|Greedy, Sort, Heap| Amazon, Roblox
 |1718 |[Construct the Lexicographically Largest Valid Sequence](https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1718.java) |Medium|Java|Backtracking|Salesforce
 |1721 |[Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1721.java) |Medium|Java|LinkedList|
+|1762 |[Buildings With an Ocean View](https://leetcode.com/problems/buildings-with-an-ocean-view/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1762.java) |Medium|Java|Greedy|Facebook
 
 ### Data Structure
 
