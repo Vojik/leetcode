@@ -149,6 +149,7 @@ LeetCode tasks solutions
 |538  |[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_538.java) |Medium|Java|Tree|Amazon
 |541  |[Reverse String II](https://leetcode.com/problems/reverse-string-ii/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_541.java) |Easy|Java|String|
 |542  |[01 Matrix](https://leetcode.com/problems/01-matrix/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_542.java) |Medium|Java|BFS|
+|543  |[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_543.java) |Easy|Java|Tree|Facebook, Amazon, Microsoft, Google, Adobe
 |547  |[Number of Provinces](https://leetcode.com/problems/number-of-provinces/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_547.java) |Medium|Java|BFS,DFS|Amazon, Dropbox,Facebook, Google
 |557  |[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_557.java) |Easy|Java|String|Apple, Microsoft
 |560  |[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_560.java) |Medium|Java|Array, HashTable|Facebook, Microsoft, Amazon, Google, Adobe
