@@ -201,6 +201,7 @@ LeetCode tasks solutions
 |938  |[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_938.java) |Easy|Java|DFS, Recursion|Facebook, Google
 |941  |[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_941.java) |Easy|Java|Array|
 |946  |[Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_946.java) |Medium|Java|Array, Stack|
+|953  |[Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_953.java) |Easy|Java|HashTable|Facebook, Amazon, Apple
 |973  |[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_973.java) |Medium|Java|Heap, Sort| Facebook, Amazon, Doordash, LinkedIn, Google, Uber
 |977  |[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_977.java) |Easy|Java|Array|
 |986  |[Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_986.java) |Medium|Java|Array|Facebook, Uber, Apple, Google, Amazon
