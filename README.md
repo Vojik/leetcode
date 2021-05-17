@@ -90,6 +90,7 @@ LeetCode tasks solutions
 |208  |[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_208.java) |Medium|Java|Trie|Amazon
 |209  |[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_209.java) |Medium|Java|Array|Google, Microsoft
 |211  |[Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_211.java) |Medium|Java|Trie|Facebook
+|215  |[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_215.java) |Medium|Java|Heap|Facebook, Amazon, Apple, Microsoft, Google, LinkedIn, Adobe
 |217  |[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_217.java) |Easy|Java|HashMap|Amazon
 |219  |[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_219.java) |Easy|Java|HashMap|Adobe, Google
 |225  |[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_225.java) |Easy|Java|Queue, Stack|
