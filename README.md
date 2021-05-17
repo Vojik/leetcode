@@ -213,6 +213,7 @@ LeetCode tasks solutions
 |973  |[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_973.java) |Medium|Java|Heap, Sort| Facebook, Amazon, Doordash, LinkedIn, Google, Uber
 |977  |[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_977.java) |Easy|Java|Array|
 |986  |[Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_986.java) |Medium|Java|Array|Facebook, Uber, Apple, Google, Amazon
+|987  |[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)|[Solution](../mster/src/main/java/com/vojik/solutions/Solution_987.java) |Hard|Java|Tree|Facebook, Amazon, Microsoft, Apple, Uber 
 |989  |[Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_989.java) |Easy|Java|Array|Facebook
 |991  |[Broken Calculator](https://leetcode.com/problems/broken-calculator/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_991.java) |Medium|Java|Math, Greedy|
 |1010 |[Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1010.java) |Medium|Java|Array|Amazon
