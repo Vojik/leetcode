@@ -108,6 +108,7 @@ LeetCode tasks solutions
 |253  |[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_253.java) |Medium|Java|Sort,Heap|Amazon, Adobe, Facebook, Microsoft, Bloomberg, Google
 |266  |[Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_266.java) |Easy|Java|HastTable|Facebook, Microsoft
 |268  |[Missing Number](https://leetcode.com/problems/missing-number/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_268.java) |Easy|Java|Array|Adobe, Amazon, Apple
+|270  |[Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_270.java) |Easy|Java|Binary Search, Tree|Facebook
 |273  |[Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_279.java) |Hard|Java|Math, String|Facebook, Amazon, Microsoft
 |278  |[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_278.java) |Easy|Java|Binary Search|
 |279  |[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_279.java) |Medium|Java|Queue|
