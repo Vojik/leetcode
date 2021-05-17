@@ -81,6 +81,7 @@ LeetCode tasks solutions
 |173  |[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_173.java) |Medium|Java|Tree|Google
 |189  |[Rotate Array](https://leetcode.com/problems/rotate-array/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_189.java) |Medium|Java|Array|Amazon
 |191  |[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_191.java) |Easy|Java|Bit Manipulation|Amazon, Apple, Google, Microsoft
+|198  |[House Robber](https://leetcode.com/problems/house-robber/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_198.java) |Medium|Java|DP|Amazon, Google, Microsoft
 |199  |[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_199.java) |Medium|Java|Tree, BFS|Adobe, Google, Amazon
 |200  |[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_200.java) |Medium|Java|DFS,Queue|
 |202  |[Happy Number](https://leetcode.com/problems/happy-number/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_202.java) |Easy|Java|HashMap|Amazon, Apple, Facebook
