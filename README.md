@@ -148,6 +148,7 @@ LeetCode tasks solutions
 |542  |[01 Matrix](https://leetcode.com/problems/01-matrix/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_542.java) |Medium|Java|BFS|
 |547  |[Number of Provinces](https://leetcode.com/problems/number-of-provinces/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_547.java) |Medium|Java|BFS,DFS|Amazon, Dropbox,Facebook, Google
 |557  |[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_557.java) |Easy|Java|String|Apple, Microsoft
+|560  |[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_560.java) |Medium|Java|Array, HashTable|Facebook, Microsoft, Amazon, Google, Adobe
 |561  |[Array Partition I](https://leetcode.com/problems/array-partition-i/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_561.java) |Easy|Java|Array|
 |572  |[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_572.java) |Easy|Java|Tree|Amazon,Facebook 
 |575  |[Distribute Candies](https://leetcode.com/problems/distribute-candies/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_575.java) |Easy|Java|Array|
