@@ -199,6 +199,7 @@ LeetCode tasks solutions
 |823  |[Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/solution/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_823.java) |Medium|Java|DP|
 |841  |[Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_841.java) |Medium|Java|Queue, Stack|
 |844  |[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_844.java) |Easy|Java|Stack,String|
+|863  |[All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_863.java) |Medium|Java|Tree|Facebook, Amazon, Microsoft, Google
 |881  |[Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_881.java) |Medium|Java|Two Pointers|Google
 |905  |[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_905.java) |Easy|Java|Array|
 |912  |[Sort an Array](https://leetcode.com/problems/sort-an-array/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_912.java) |Medium|Java|Recursion, Queue|
