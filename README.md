@@ -127,6 +127,7 @@ LeetCode tasks solutions
 |380  |[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_380.java) |Medium|Java|HashTable|Affirm, Amazon
 |387  |[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_387.java) |Easy|Java|HashMap|Amazon, Apple, Facebook, Google, Microsoft
 |394  |[Decode String](https://leetcode.com/problems/decode-string/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_394.java) |Medium|Java|DFS, Stack|
+|398  |[Random Pick Index](https://leetcode.com/problems/random-pick-index/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_398.java) |Medium|Java|HashTable|Facebook
 |412  |[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_412.java) |Easy|Java||
 |413  |[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_413.java) |Medium|Java|Array, DP|
 |414  |[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_414.java) |Easy|Java|Array|
