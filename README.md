@@ -233,6 +233,7 @@ LeetCode tasks solutions
 |1346 |[Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1346.java) |Easy|Java|Array|
 |1396 |[Design Underground System](https://leetcode.com/problems/design-underground-system/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1396.java) |Medium|Java|Design|
 |1431 |[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1431.java) |Easy|Java|Array|
+|1428 |[Leftmost Column with at Least a One](https://leetcode.com/problems/leftmost-column-with-at-least-a-one/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1428.java) |Medium|Java|Array|Facebook
 |1448 |[Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1448.java) |Medium|Java|Tree, DFS|Microsoft, Amazon
 |1480 |[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1480.java) |Easy|Java|Array|
 |1576 |[Replace All ?'s to Avoid Consecutive Repeating Characters](https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1576.java) |Easy|Java|String|Microsoft, Google
