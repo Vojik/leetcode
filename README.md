@@ -65,6 +65,7 @@ LeetCode tasks solutions
 |133  |[Clone Graph](https://leetcode.com/problems/clone-graph/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_133.java) |Medium|Java|Recursion, DFS, Stack, Queue|
 |136  |[Single Number](https://leetcode.com/problems/single-number/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_136.java) |Easy|Java|HashTable|
 |138  |[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_138.java) |Medium|Java|LinkedList|Alibaba, Facebook
+|139  |[Word Break](https://leetcode.com/problems/word-break/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_139.java) |Medium|Java|DP|Facebook, Amazon, Google
 |141  |[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_141.java) |Easy|Java|LinkedList|
 |142  |[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_142.java) |Medium|Java|LinkedList|
 |146  |[LRU Cache](https://leetcode.com/problems/lru-cache/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_146.java) |Medium|Java|Design|Amazon, Microsoft, Facebook, Apple, Intuit, Snapchat,, Google, Uber, Dropbox, Adobe
