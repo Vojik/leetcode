@@ -107,6 +107,7 @@ LeetCode tasks solutions
 |240  |[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_240.java) |Medium|Java|Recursion|Amazon, Facebook, Google, Microsoft
 |242  |[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_242.java) |Easy|Java|HashTable|Amazon, Apple, Facebook, Google, Microsoft
 |243  |[Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_243.java) |Easy|Java|Array|LinkedIn, Microsoft
+|249  |[Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_249.java) |Medium|Java|HashTable, String|Facebook, Google
 |252  |[Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_252.java) |Easy|Java|Sort|Amazon, Adobe, Facebook, Microsoft, Karat, Bloomberg
 |253  |[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_253.java) |Medium|Java|Sort,Heap|Amazon, Adobe, Facebook, Microsoft, Bloomberg, Google
 |266  |[Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_266.java) |Easy|Java|HastTable|Facebook, Microsoft
