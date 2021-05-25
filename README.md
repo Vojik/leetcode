@@ -151,6 +151,7 @@ LeetCode tasks solutions
 |494  |[Target Sum](https://leetcode.com/problems/target-sum/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_494.java) |Medium|Java|DFS, Recursion|Facebook, Google
 |498  |[Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_498.java) |Medium|Java|Array|Facebook, Google
 |509  |[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_509.java) |Easy|Java|Array|Adobe, Amazon, Microsoft
+|523  |[Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_523.java) |Medium|Java|Array|Facebook, Amazon, Microsoft
 |524  |[Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_524.java) |Medium|Java|String, Two Pointers|Google
 |528  |[Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_528.java) |Medium|Java|Binary Search|Facebook, Google, LinkedIn, Amazon, Apple 
 |535  |[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_535.java) |Medium|Java|HashTable, Math|Adobe
