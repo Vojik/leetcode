@@ -61,6 +61,7 @@ LeetCode tasks solutions
 |118  |[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_118.java) |Easy|Java|Array|Amazon, Facebook, Google, Microsoft
 |119  |[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_119.java) |Easy|Java|Array|Adobe, Amazon, Google
 |121  |[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_121.java) |Easy|Java|Array|Facebook
+|124  |[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_124.java) |Hard|Java|Tree|Facebook, Amazon, Google, Microsoft, Apple
 |125  |[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_125.java) |Easy|Java|String|Amazon, Apple, Facebook, Google, Microsoft
 |127  |[Word Ladder](https://leetcode.com/problems/word-ladder/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_127.java) |Hard|Java|Tree|Amazon, Facebook, Apple, Microsoft, Google
 |130  |[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_130.java) |Medium|Java|DFS, BFS|Google, Amazon, Uber
