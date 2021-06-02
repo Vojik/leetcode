@@ -44,6 +44,7 @@ LeetCode tasks solutions
 |70   |[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_70.java) |Easy|Java|Recursion|Adobe, Alibaba, Amazon, Apple, Facebook, Microsoft
 |71   |[Simplify Path](https://leetcode.com/problems/climbing-stairs/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_71.java) |Medium|Java|Array, Stack|Adobe, Amazon, Facebook, Microsoft
 |77   |[Combinations](https://leetcode.com/problems/combinations/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_77.java) |Medium|Java|Backtracking|Facebook, Google, Microsoft
+|79   |[Word Search](https://leetcode.com/problems/word-search/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_79.java) |Medium|Java|Array, Backtracking|
 |84   |[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_84.java) |Hard|Java|Array,Stack|Microsoft
 |88   |[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_88.java) |Easy|Java|Array|
 |90   |[Subsets II](https://leetcode.com/problems/subsets-ii/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_90.java) |Medium|Java|Backtracking|
