@@ -15,4 +15,14 @@ class Solution_560Test {
   public void test2_whenSolution1() {
     assertEquals(2, new Solution_560().subarraySum(new int[] {1, 2, 3}, 3));
   }
+
+  @Test
+  public void test1_whenSolution2() {
+    assertEquals(2, new Solution_560().subarraySum2(new int[] {1, 1, 1}, 2));
+  }
+
+  @Test
+  public void test2_whenSolution2() {
+    assertEquals(2, new Solution_560().subarraySum2(new int[] {1, 2, 3}, 3));
+  }
 }
