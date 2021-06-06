@@ -101,6 +101,7 @@ LeetCode tasks solutions
 |215  |[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_215.java) |Medium|Java|Heap|Facebook, Amazon, Apple, Microsoft, Google, LinkedIn, Adobe
 |217  |[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_217.java) |Easy|Java|HashMap|Amazon
 |219  |[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_219.java) |Easy|Java|HashMap|Adobe, Google
+|221  |[Maximal Square](https://leetcode.com/problems/maximal-square/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_221.java) |Medium|Java|DP|Amazon
 |225  |[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_225.java) |Easy|Java|Queue, Stack|
 |232  |[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_234.java) |Easy|Java|Queue, Stack|
 |234  |[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_234.java) |Easy|Java|LinkedList|
