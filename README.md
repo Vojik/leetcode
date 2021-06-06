@@ -232,6 +232,7 @@ LeetCode tasks solutions
 |987  |[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)|[Solution](../mster/src/main/java/com/vojik/solutions/Solution_987.java) |Hard|Java|Tree|Facebook, Amazon, Microsoft, Apple, Uber 
 |989  |[Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_989.java) |Easy|Java|Array|Facebook
 |991  |[Broken Calculator](https://leetcode.com/problems/broken-calculator/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_991.java) |Medium|Java|Math, Greedy|
+|994  |[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_994.java) |Medium|Java|BFS|Amazon
 |1004 |[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1004.java) |Medium|Java|Sliding Window|Facebook
 |1010 |[Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1010.java) |Medium|Java|Array|Amazon
 |1038 |[Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1038.java) |Medium|Java|Tree|Amazon
