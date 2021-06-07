@@ -209,6 +209,7 @@ LeetCode tasks solutions
 |746  |[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_746.java) |Easy|Java|DP|Amazon
 |747  |[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_747.java) |Easy|Java|Array|
 |752  |[Open the Lock](https://leetcode.com/problems/open-the-lock/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_752.java) |Medium|Java|Queue, BFS|
+|763  |[Partition Labels](https://leetcode.com/problems/partition-labels/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_763.java) |Medium|Java|Two Pointers, Greedy|
 |771  |[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_771.java) |Easy|Java|HashTable|Adobe, Alibaba, Amazon, Apple, Google
 |779  |[K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_779.java) |Medium|Java|Recursion|
 |784  |[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_784.java) |Medium|Java|Backtracking|Microsoft
