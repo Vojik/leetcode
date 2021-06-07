@@ -96,6 +96,7 @@ LeetCode tasks solutions
 |206  |[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_206.java) |Easy|Java|LinkedList|Adobe, Alibaba, Facebook, Google, Microsoft
 |208  |[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_208.java) |Medium|Java|Trie|Amazon
 |209  |[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_209.java) |Medium|Java|Array|Google, Microsoft
+|210  |[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_210.java) |Medium|Java|Graph|Amazon
 |211  |[Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_211.java) |Medium|Java|Trie|Facebook
 |212  |[Word Search II](https://leetcode.com/problems/word-search-ii/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_212.java) |Hard|Java|Array, Backtracking|
 |215  |[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_215.java) |Medium|Java|Heap|Facebook, Amazon, Apple, Microsoft, Google, LinkedIn, Adobe
