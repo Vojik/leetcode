@@ -14,6 +14,7 @@ LeetCode tasks solutions
 |12   |[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_12.java) |Medium|Java|Math, String|Adobe, Amazon, Apple, Google, Microsoft
 |13   |[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_13.java) |Easy|Java|Array|Adobe, Amazon, Apple, Facebook, Google, Microsoft
 |14   |[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_14.java) |Easy|Java|String|Adobe, Apple, Google, Microsoft
+|15   |[3Sum](https://leetcode.com/problems/3sum/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_15.java) |Medium|Java|Array|Amazon
 |19   |[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_19.java) |Medium|Java|LinkedList|
 |20   |[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/submissions/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_20.java) |Easy|Java|Stack|
 |21   |[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_21.java) |Easy|Java|LinkedList|
