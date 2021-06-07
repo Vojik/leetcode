@@ -53,6 +53,7 @@ LeetCode tasks solutions
 |92   |[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_92.java) |Medium|Java|LinkedList|
 |94   |[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_94.java) |Medium|Java|LinkedList|
 |95   |[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_95.java) |Medium|Java|Recursion|
+|96   |[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_96.java) |Medium|Java|DP|
 |98   |[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_98.java) |Medium|Java|Recursion, Stack|Adobe, Amazon, Apple, Facebook, Microsoft
 |100  |[Same Tree](https://leetcode.com/problems/same-tree/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_100.java) |Easy|Java|Recursion, Queue|Amazon, Apple, Facebook, Google
 |102  |[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_102.java) |Medium|Java|Recursion, Queue|Apple, Google, Facebook, Microsoft, Oracle, Uber, Bloomberg, Walmart labs
