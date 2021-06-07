@@ -188,6 +188,7 @@ LeetCode tasks solutions
 |677  |[Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_677.java) |Medium|Java|Trie|
 |680  |[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_680.java) |Easy|Java|String|Facebook, Microsoft
 |690  |[Employee Importance](https://leetcode.com/problems/employee-importance/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_690.java) |Medium|Java|Tree, HashTable|Google
+|692  |[Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_692.java) |Medium|Java|PriorityQueue|Amazon
 |695  |[Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_695.java) |Medium|Java|Tree|DoorDash, Google, Amazon, Facebook, Microsoft
 |700  |[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_700.java) |Easy|Java|Binary Tree|Google
 |701  |[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_701.java) |Medium|Java|Binary Tree|Microsoft
