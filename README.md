@@ -61,6 +61,7 @@ LeetCode tasks solutions
 |104  |[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_104.java) |Easy|Java|Tree, DFS, Recursion|Apple, Facebook, Google
 |108  |[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_108.java) |Easy|Java|Tree, DFS|Adobe, Apple
 |112  |[Path Sum](https://leetcode.com/problems/path-sum/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_112.java) |Easy|Java|Tree|
+|113  |[Path Sum II](https://leetcode.com/problems/path-sum-ii/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_113.java) |Medium|Java|Tree|
 |116  |[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_116.java) |Medium|Java|Tree|Amazon, Facebook, Google, Microsoft, Apple
 |117  |[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_117.java) |Medium|Java|Tree|Amazon, Facebook, Microsoft
 |118  |[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_118.java) |Easy|Java|Array|Amazon, Facebook, Google, Microsoft
