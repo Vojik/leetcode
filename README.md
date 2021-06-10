@@ -204,6 +204,7 @@ LeetCode tasks solutions
 |706  |[Design HashMap](https://leetcode.com/problems/design-hashmap/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_706.java) |Easy|Java|HashMap|Adobe, Amazon, Apple, Microsoft
 |707  |[Design Linked List](https://leetcode.com/problems/design-linked-list/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_707.java) |Medium|Java|LinkedList|Amazon
 |718  |[Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_718.java) |Medium|Java|DP, HashTable|Karat, Indeed, Intuit
+|720  |[Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_720.java) |Easy|Java|HashTable, Trie|Adobe
 |724  |[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_724.java) |Easy|Java|Array|Amazon, Apple, Facebook, Google, Microsoft
 |733  |[Flood Fill](https://leetcode.com/problems/flood-fill/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_733.java) |Easy|Java|DFS|
 |739  |[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_739.java) |Medium|Java|Stack|
