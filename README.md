@@ -265,6 +265,7 @@ LeetCode tasks solutions
 |1342 |[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1342.java) |Easy|Java|Math|
 |1346 |[Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1346.java) |Easy|Java|Array|
 |1396 |[Design Underground System](https://leetcode.com/problems/design-underground-system/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1396.java) |Medium|Java|Design|
+|1405 |[Longest Happy String](https://leetcode.com/problems/longest-happy-string/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1405.java) |Medium|Java|Greedy, Priority Queue|Adobe
 |1431 |[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1431.java) |Easy|Java|Array|
 |1428 |[Leftmost Column with at Least a One](https://leetcode.com/problems/leftmost-column-with-at-least-a-one/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1428.java) |Medium|Java|Array|Facebook
 |1448 |[Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1448.java) |Medium|Java|Tree, DFS|Microsoft, Amazon
