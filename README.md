@@ -146,6 +146,7 @@ LeetCode tasks solutions
 |369  |[Plus One Linked List](https://leetcode.com/problems/plus-one-linked-list/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_369.java) |Medium|Java|LinkedList|Google, Amazon
 |376  |[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_376.java) |Medium|Java|DP|
 |380  |[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_380.java) |Medium|Java|HashTable|Affirm, Amazon
+|384  |[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_384.java) |Medium|Java|Array|Apple
 |387  |[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_387.java) |Easy|Java|HashMap|Amazon, Apple, Facebook, Google, Microsoft
 |394  |[Decode String](https://leetcode.com/problems/decode-string/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_394.java) |Medium|Java|DFS, Stack|
 |398  |[Random Pick Index](https://leetcode.com/problems/random-pick-index/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_398.java) |Medium|Java|HashTable|Facebook
