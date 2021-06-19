@@ -258,6 +258,7 @@ LeetCode tasks solutions
 |1114 |[Print in Order](https://leetcode.com/problems/print-in-order/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1114.java) |Easy|Java|Concurrency|Microsoft
 |1120 |[Maximum Average Subtree](https://leetcode.com/problems/design-snake-game/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1120.java) |Medium|Java|DFS|Amazon, Facebook
 |1167 |[Minimum Cost to Connect Sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1167.java) |Medium|Java|Heap|Amazon
+|1171 |[Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1171.java) |Medium|Java|LinkedList|
 |1188 |[Design Bounded Blocking Queue](https://leetcode.com/problems/design-bounded-blocking-queue/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1188.java) |Medium|Java|Concurrency|LinkedIn,Apple,Microsoft
 |1227 |[Airplane Seat Assignment Probability](https://leetcode.com/problems/airplane-seat-assignment-probability/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1227.java) |Medium|Java|Math|Adobe
 |1229 |[Meeting Scheduler](https://leetcode.com/problems/meeting-scheduler/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1229.java) |Medium|Java|Two Pointers, Heap|DoorDash,Amazon
