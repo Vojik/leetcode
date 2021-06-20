@@ -29,6 +29,7 @@ LeetCode tasks solutions
 |36   |[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_36.java) |Medium|Java|Array, HashTable| Amazon, Apple, Facebook, Google, Microsoft
 |37   |[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_37.java) |Hard|Java|Backtracking, HashTable| Amazon
 |42   |[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_42.java) |Hard|Java|DP|Facebook,Amazon,Microsoft,Apple,Databricks,Google,Adobe
+|48   |[Rotate Image](https://leetcode.com/problems/rotate-image/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_48.java) |Medium|Java|Array|
 |49   |[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_49.java) |Medium|Java|HashTable| Adobe, Affirm, Alibaba, Amazon, Apple, Facebook, Google, Microsoft
 |50   |[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_50.java) |Medium|Java|Math, Recursion|Adobe, Alibaba, Amazon, Apple, Facebook, Microsoft
 |52   |[N-Queens II](https://leetcode.com/problems/n-queens-ii/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_52.java) |Hard|Java|Backtracking|
