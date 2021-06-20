@@ -110,6 +110,7 @@ LeetCode tasks solutions
 |219  |[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_219.java) |Easy|Java|HashMap|Adobe, Google
 |221  |[Maximal Square](https://leetcode.com/problems/maximal-square/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_221.java) |Medium|Java|DP|Amazon
 |225  |[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_225.java) |Easy|Java|Queue, Stack|
+|226  |[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_226.java) |Easy|Java|Tree|
 |232  |[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_234.java) |Easy|Java|Queue, Stack|
 |234  |[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_234.java) |Easy|Java|LinkedList|
 |235  |[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_235.java) |Easy|Java|Tree|Adobe
@@ -125,7 +126,7 @@ LeetCode tasks solutions
 |263  |[Ugly Number](https://leetcode.com/problems/ugly-number/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_263.java) |Easy|Java|Math|Adobe
 |266  |[Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_266.java) |Easy|Java|HastTable|Facebook, Microsoft
 |268  |[Missing Number](https://leetcode.com/problems/missing-number/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_268.java) |Easy|Java|Array|Adobe, Amazon, Apple
-|269  |[Alien Dictionary]()|[Solution](../master/src/main/java/com/vojik/solutions/Solution_269.java) |Hard|Java|Graph, Topological Sort|Facebook, Amazon, Airbnb, Google, Apple
+|269  |[Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_269.java) |Hard|Java|Graph, Topological Sort|Facebook, Amazon, Airbnb, Google, Apple
 |270  |[Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_270.java) |Easy|Java|Binary Search, Tree|Facebook
 |273  |[Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_279.java) |Hard|Java|Math, String|Facebook, Amazon, Microsoft
 |278  |[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_278.java) |Easy|Java|Binary Search|
