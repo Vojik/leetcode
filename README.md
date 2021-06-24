@@ -53,7 +53,7 @@ LeetCode tasks solutions
 |88   |[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_88.java) |Easy|Java|Array|
 |90   |[Subsets II](https://leetcode.com/problems/subsets-ii/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_90.java) |Medium|Java|Backtracking|
 |92   |[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_92.java) |Medium|Java|LinkedList|
-|94   |[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_94.java) |Medium|Java|LinkedList|
+|94   |[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_94.java) |Easy|Java|LinkedList|
 |95   |[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_95.java) |Medium|Java|Recursion|
 |96   |[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_96.java) |Medium|Java|DP|
 |97   |[Interleaving String](https://leetcode.com/problems/interleaving-string/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_97.java) |Medium|Java|String|Apple
@@ -251,6 +251,7 @@ LeetCode tasks solutions
 |989  |[Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_989.java) |Easy|Java|Array|Facebook
 |991  |[Broken Calculator](https://leetcode.com/problems/broken-calculator/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_991.java) |Medium|Java|Math, Greedy|
 |994  |[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_994.java) |Medium|Java|BFS|Amazon
+|1002 |[Find Common Characters](https://leetcode.com/problems/find-common-characters/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1002.java) |Easy|Java|HashTable, Array, String|Apple
 |1004 |[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1004.java) |Medium|Java|Sliding Window|Facebook
 |1010 |[Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1010.java) |Medium|Java|Array|Amazon
 |1038 |[Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_1038.java) |Medium|Java|Tree|Amazon
