@@ -124,6 +124,7 @@ LeetCode tasks solutions
 |249  |[Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_249.java) |Medium|Java|HashTable, String|Facebook, Google
 |252  |[Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_252.java) |Easy|Java|Sort|Amazon, Adobe, Facebook, Microsoft, Karat, Bloomberg
 |253  |[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_253.java) |Medium|Java|Sort,Heap|Amazon, Adobe, Facebook, Microsoft, Bloomberg, Google
+|257  |[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_257.java) |Easy|Java|Tree|Apple
 |263  |[Ugly Number](https://leetcode.com/problems/ugly-number/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_263.java) |Easy|Java|Math|Adobe
 |266  |[Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_266.java) |Easy|Java|HastTable|Facebook, Microsoft
 |268  |[Missing Number](https://leetcode.com/problems/missing-number/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_268.java) |Easy|Java|Array|Adobe, Amazon, Apple
