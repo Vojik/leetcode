@@ -59,6 +59,7 @@ LeetCode tasks solutions
 |97   |[Interleaving String](https://leetcode.com/problems/interleaving-string/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_97.java) |Medium|Java|String|Apple
 |98   |[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_98.java) |Medium|Java|Recursion, Stack|Adobe, Amazon, Apple, Facebook, Microsoft
 |100  |[Same Tree](https://leetcode.com/problems/same-tree/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_100.java) |Easy|Java|Recursion, Queue|Amazon, Apple, Facebook, Google
+|101  |[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_101.java) |Easy|Java|Recursion, Tree|
 |102  |[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_102.java) |Medium|Java|Recursion, Queue|Apple, Google, Facebook, Microsoft, Oracle, Uber, Bloomberg, Walmart labs
 |103  |[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_103.java) |Medium|Java|Recursion, Queue|Adobe, Google
 |104  |[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_104.java) |Easy|Java|Tree, DFS, Recursion|Apple, Facebook, Google
