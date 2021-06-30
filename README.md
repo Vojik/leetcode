@@ -48,6 +48,7 @@ LeetCode tasks solutions
 |70   |[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_70.java) |Easy|Java|Recursion|Adobe, Alibaba, Amazon, Apple, Facebook, Microsoft
 |71   |[Simplify Path](https://leetcode.com/problems/climbing-stairs/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_71.java) |Medium|Java|Array, Stack|Adobe, Amazon, Facebook, Microsoft
 |73   |[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_73.java) |Medium|Java|Array|
+|75   |[Sort Colors](https://leetcode.com/problems/sort-colors/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_75.java) |Medium|Java|Array|Abode
 |77   |[Combinations](https://leetcode.com/problems/combinations/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_77.java) |Medium|Java|Backtracking|Facebook, Google, Microsoft
 |79   |[Word Search](https://leetcode.com/problems/word-search/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_79.java) |Medium|Java|Array, Backtracking|
 |84   |[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_84.java) |Hard|Java|Array,Stack|Microsoft
