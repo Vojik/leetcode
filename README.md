@@ -28,6 +28,7 @@ LeetCode tasks solutions
 |34   |[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_34.java) |Medium|Java|Array, Binary Search|
 |36   |[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_36.java) |Medium|Java|Array, HashTable| Amazon, Apple, Facebook, Google, Microsoft
 |37   |[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_37.java) |Hard|Java|Backtracking, HashTable| Amazon
+|38   |[Count and Say](https://leetcode.com/problems/count-and-say/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_38.java) |Medium|Java|String|
 |39   |[Combination Sum](https://leetcode.com/problems/combination-sum/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_39.java) |Medium|Java|Backtracking|
 |42   |[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_42.java) |Hard|Java|DP|Facebook,Amazon,Microsoft,Apple,Databricks,Google,Adobe
 |48   |[Rotate Image](https://leetcode.com/problems/rotate-image/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_48.java) |Medium|Java|Array|
