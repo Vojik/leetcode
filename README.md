@@ -10,6 +10,7 @@ LeetCode tasks solutions
 |2    |[Add two numbers](https://leetcode.com/problems/add-two-numbers/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_2.java) |Medium|Java|LinkedList|Adobe, Aetion, Airbnb, Alibaba, Amazon, Apple, Facebook, Google
 |3    |[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_3.java) |Medium|Java|HashTable|Akuna Capital, Alibaba
 |4    |[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_4.java) |Hard|Java|Binary Search|Alibaba, Apple
+|9    |[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_9.java) |Easy|Java|Math|
 |11   |[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_11.java) |Medium|Java|Array, Two Pointers|Airbnb, Alibaba
 |12   |[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_12.java) |Medium|Java|Math, String|Adobe, Amazon, Apple, Google, Microsoft
 |13   |[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Solution](../master/src/main/java/com/vojik/solutions/Solution_13.java) |Easy|Java|Array|Adobe, Amazon, Apple, Facebook, Google, Microsoft
