@@ -61,4 +61,30 @@ public class Solution_1089 {
       right--;
     }
   }
+
+
+  public void duplicateZeros2(int[] arr) {
+    int countZeros = 0;
+    for (int n : arr) {
+      if (n == 0) {
+        countZeros++;
+      }
+    }
+    int len = arr.length - 1 + countZeros;
+    for (int i = arr.length - 1; i >= 0 && countZeros > 0; i--, len--) {
+      if (arr[i] == 0) {
+        if (len <= arr.length - 1) {
+          arr[len] = arr[i];
+        }
+        len--;
+        if (len <= arr.length - 1) {
+          arr[len] = arr[i];
+        }
+      } else {
+        if (len <= arr.length - 1) {
+          arr[len] = arr[i];
+        }
+      }
+    }
+  }
 }

@@ -10,7 +10,7 @@ class Solution_1089Test {
   public void test1_whenSolution1() {
     Solution_1089 solution = new Solution_1089();
     int[] input = {1, 0, 2, 3, 0, 4, 5, 0};
-    solution.duplicateZeros(input);
+    solution.duplicateZeros2(input);
     assertArrayEquals(new int[]{1, 0, 0, 2, 3, 0, 0, 4}, input);
   }
 

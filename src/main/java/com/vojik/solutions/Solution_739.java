@@ -46,4 +46,18 @@ public class Solution_739 {
     }
     return T;
   }
+
+  public int[] dailyTemperatures3(int[] temperatures) {
+    Stack<int[]> stack = new Stack<>();
+    int[] result = new int[temperatures.length];
+    for (int i = 0; i < temperatures.length; i++) {
+      int current = temperatures[i];
+      while (!stack.isEmpty() && current > stack.peek()[0]) {
+        int idx = stack.pop()[1];
+        result[idx] = i - idx;
+      }
+      stack.push(new int[]{current, i});
+    }
+    return result;
+  }
 }
