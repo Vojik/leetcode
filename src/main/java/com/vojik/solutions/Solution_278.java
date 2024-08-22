@@ -55,6 +55,22 @@ public class Solution_278 {
 
   }
 
+  public int solution2(int n) {
+    int lo = 1;
+    int hi = n;
+    int answer = n;
+    while (lo <= hi) {
+      int mid = lo + (hi - lo) / 2;
+      if (isBadVersion(mid)) {
+        answer = mid;
+        hi = mid - 1;
+      } else {
+        lo = mid + 1;
+      }
+    }
+    return answer;
+  }
+
   private boolean isBadVersion(int number) {
     return number >= badVersion;
   }
