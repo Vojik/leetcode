@@ -75,4 +75,36 @@ class Solution_33Test {
     assertEquals(6, actual);
   }
 
+  //////
+
+  @Test
+  public void test1_whenSolution3() {
+    int actual = new Solution_33().search3(new int[]{4, 5, 6, 7, 0, 1, 2}, 3);
+    assertEquals(-1, actual);
+  }
+
+  @Test
+  public void test2_whenSolution3() {
+    int actual = new Solution_33().search3(new int[]{4, 5, 6, 7, 0, 1, 2}, 0);
+    assertEquals(4, actual);
+  }
+
+  @Test
+  public void test3_whenSolution3() {
+    int actual = new Solution_33().search(new int[]{1}, 0);
+    assertEquals(-1, actual);
+  }
+
+  @Test
+  public void test4_whenSolution3() {
+    int actual = new Solution_33().search(new int[]{1, 3}, 0);
+    assertEquals(-1, actual);
+  }
+
+  @Test
+  public void test5_whenSolution3() {
+    int actual = new Solution_33().search(new int[]{8,1,2,3,4,5,6,7}, 6);
+    assertEquals(6, actual);
+  }
+
 }

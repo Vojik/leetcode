@@ -69,4 +69,47 @@ public class Solution_33 {
     return -1;
   }
 
+
+  public int search3(int[] nums, int target) {
+    int minIdx = findMin(nums);
+    if (nums[minIdx] == target) {
+      return minIdx;
+    } else if (target > nums[nums.length - 1]) {
+      return binarySearch(nums, target, 0, minIdx - 1);
+    } else {
+      return binarySearch(nums, target, minIdx, nums.length - 1);
+    }
+  }
+
+  public int binarySearch(int[] nums, int target, int lo, int hi) {
+    while (lo <= hi) {
+      int mid = lo + (hi - lo) / 2;
+      if (nums[mid] == target) {
+        return mid;
+      } else if (nums[mid] > target) {
+        hi = mid - 1;
+      } else {
+        lo = mid + 1;
+      }
+    }
+    return -1;
+  }
+
+  private int findMin(int[] nums) {
+    int lastIdx = nums.length - 1;
+    int lo = 0;
+    int hi = lastIdx;
+    int ans = Integer.MAX_VALUE;
+    while (lo <= hi) {
+      int mid = lo + (hi - lo) / 2;
+      if (nums[mid] <= nums[lastIdx]) {
+        ans = mid;
+        hi = mid - 1;
+      } else {
+        lo = mid + 1;
+      }
+    }
+    return ans;
+  }
+
 }
