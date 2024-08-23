@@ -70,4 +70,23 @@ public class Solution_162 {
     }
     return nums[left] > nums[right] ? left : right;
   }
+
+  public int findPeakElement3(int[] nums) {
+    int lo = 0;
+    int hi = nums.length - 1;
+    int ans = Integer.MIN_VALUE;
+    while (lo <= hi) {
+      int mid = lo + (hi - lo) / 2;
+      if (mid >= 1 && nums[mid] > nums[mid - 1]) {
+        ans = mid;
+        lo = mid + 1;
+      } else if (mid < nums.length - 1 && nums[mid] < nums[mid + 1]) {
+        ans = mid;
+        lo = mid + 1;
+      } else {
+        hi = mid - 1;
+      }
+    }
+    return ans == Integer.MIN_VALUE ? 0 : ans;
+  }
 }
