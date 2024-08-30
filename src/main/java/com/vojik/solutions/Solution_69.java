@@ -52,13 +52,24 @@ public class Solution_69 {
     }
   }
 
-  // no efficient
   public int mySqrt3(int x) {
-    int num = 1;
-    while (num * num < x) {
-      num++;
+    if (x == 0 || x == 1) return x;
+    int lo = 1;
+    int hi = x;
+    int ans = -1;
+    while (lo <= hi) {
+      int mid = lo + (hi - lo) / 2;
+      long option = (long) mid * mid;
+      if (option == x) {
+        return mid;
+      } else if (option < (long) x) {
+        ans = mid;
+        lo = mid + 1;
+      } else {
+        hi = mid - 1;
+      }
     }
-    return num * num <= x ? num : num - 1;
+    return ans;
   }
 
 
