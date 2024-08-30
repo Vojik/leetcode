@@ -58,4 +58,31 @@ public class Solution_34 {
     }
     return new int[]{-1, -1};
   }
+
+  public int[] searchRange2(int[] nums, int target) {
+    return new int[] {binarySearch(nums, target, true), binarySearch(nums, target, false)};
+  }
+
+  private int binarySearch(int[] nums, int target, boolean isFirstLeft) {
+    int lo = 0;
+    int hi = nums.length - 1;
+    int ans = -1;
+    while (lo <= hi) {
+      int mid = lo + (hi - lo) / 2;
+      if (nums[mid] == target) {
+        ans = mid;
+        if (isFirstLeft) {
+          hi = mid - 1;
+        } else {
+          lo = mid + 1;
+        }
+
+      } else if (nums[mid] < target) {
+        lo = mid + 1;
+      } else {
+        hi = mid - 1;
+      }
+    }
+    return ans;
+  }
 }
