@@ -78,4 +78,56 @@ public class Solution_658 {
     }
     return result;
   }
+
+  public List<Integer> findClosestElements2(int[] arr, int k, int x) {
+    int idx = binarySearch(arr, x);
+    List<Integer> result = new ArrayList<>();
+    int left = idx - 1;
+    int right = idx;
+    int len = k;
+
+    while (len > 0) {
+      if (left < 0) {
+        right++;
+      } else if (right > arr.length - 1) {
+        left--;
+      } else if (Math.abs(arr[left] - x) <= Math.abs(arr[right] - x)) {
+        left--;
+      } else {
+        right++;
+      }
+      len--;
+    }
+
+    while (k > 0) {
+      result.add(arr[++left]);
+      k--;
+    }
+    return result;
+  }
+
+  private int binarySearch(int[] arr, int target) {
+    int lo = 0;
+    int hi = arr.length - 1;
+    if (target > arr[hi]) {
+      return hi;
+    }
+    if (target < arr[lo]) {
+      return lo;
+    }
+
+    int ans = -1;
+    while (lo <= hi) {
+      int mid = lo + (hi - lo) / 2;
+      if (arr[mid] == target) {
+        return mid;
+      } else if (arr[mid] < target) {
+        lo = mid + 1;
+      } else {
+        ans = mid;
+        hi = mid - 1;
+      }
+    }
+    return ans;
+  }
 }
