@@ -330,6 +330,7 @@ LeetCode tasks solutions
 | 2187 | [Minimum Time to Complete Trips](https://leetcode.com/problems/minimum-time-to-complete-trips/)                                                         | [Solution](../master/src/main/java/com/vojik/solutions/Solution_2187.kt)   | Medium     | Java     | Array, BinarySearch            |
 | 2331 | [Evaluate Boolean Binary Tree](https://leetcode.com/problems/evaluate-boolean-binary-tree/)                                                                             | [Solution](../master/src/main/java/com/vojik/solutions/Solution_2331.java) | Easy       | Java     | Tree                           |
 | 2339 | [Find Closest Number to Zero](https://leetcode.com/problems/find-closest-number-to-zero/)                                                                               | [Solution](../master/src/main/java/com/vojik/solutions/Solution_2339.java) | Easy       | Java     | Array                          |
+| 2419 | [Longest Subarray With Maximum Bitwise AND](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/)                                                                               | [Solution](../master/src/main/java/com/vojik/solutions/Solution_2419.java) | Medium       | Java     | Array, Bit Manipulation        |
 
 ### Data Structure
 
