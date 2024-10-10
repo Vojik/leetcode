@@ -1,6 +1,8 @@
 package com.vojik.solutions;
 
 import com.vojik.helpers.ListNode;
+import java.util.HashSet;
+import java.util.Set;
 
 /**
  * 142. Linked List Cycle II
@@ -58,6 +60,24 @@ public class Solution_142 {
           starter = starter.next;
         }
         return starter;
+      }
+    }
+    return null;
+  }
+
+  // Time: O(n) Space: O(n)
+  public ListNode detectCycle2(ListNode head) {
+    if (head == null) {
+      return null;
+    }
+    ListNode node = head;
+    Set<ListNode> set = new HashSet<>();
+    while (node != null) {
+      if (set.contains(node)) {
+        return node;
+      } else {
+        set.add(node);
+        node = node.next;
       }
     }
     return null;
