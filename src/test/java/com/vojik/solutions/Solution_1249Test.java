@@ -15,4 +15,15 @@ class Solution_1249Test {
   public void test2_whenSolution1() {
     Assertions.assertEquals("", new Solution_1249().minRemoveToMakeValid("))))))((((((("));
   }
+
+  @Test
+  public void test1_whenSolution2() {
+    Assertions.assertEquals("()lee(t(c)o)de",
+        new Solution_1249().minRemoveToMakeValid2("()le)))))e(t(c)o)de)"));
+  }
+
+  @Test
+  public void test2_whenSolution2() {
+    Assertions.assertEquals("", new Solution_1249().minRemoveToMakeValid2("))))))((((((("));
+  }
 }

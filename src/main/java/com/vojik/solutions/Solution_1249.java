@@ -2,6 +2,9 @@ package com.vojik.solutions;
 
 import java.util.ArrayDeque;
 import java.util.Deque;
+import java.util.HashSet;
+import java.util.Set;
+import java.util.Stack;
 
 /**
  * 1249. Minimum Remove to Make Valid Parentheses
@@ -30,6 +33,34 @@ public class Solution_1249 {
       sb.deleteCharAt(stack.pop());
     }
 
+    return sb.toString();
+  }
+
+  public String minRemoveToMakeValid2(String s) {
+    Stack<Integer> stack = new Stack<>();
+    Set<Integer> indexesToRemove = new HashSet();
+    for (int i = 0; i < s.length(); i++) {
+      if (s.charAt(i) == '(') {
+        stack.push(i);
+      } else if (s.charAt(i) == ')') {
+        if (stack.isEmpty()) {
+          indexesToRemove.add(i);
+        } else {
+          stack.pop();
+        }
+      }
+    }
+
+    while (!stack.isEmpty()) {
+      indexesToRemove.add(stack.pop());
+    }
+
+    StringBuilder sb = new StringBuilder();
+    for (int i = 0; i < s.length(); i++) {
+      if (!indexesToRemove.contains(i)) {
+        sb.append(s.charAt(i));
+      }
+    }
     return sb.toString();
   }
 }
