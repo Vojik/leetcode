@@ -1,8 +1,5 @@
 package com.vojik.solutions;
 
-import java.util.ArrayList;
-import java.util.List;
-
 /**
  * 408. Valid Word Abbreviation
  */
@@ -25,7 +22,9 @@ public class Solution_408 {
         }
         wordCur += skip;
       } else {
-        if (ch != word.charAt(wordCur)) return false;
+        if (ch != word.charAt(wordCur)) {
+          return false;
+        }
         wordCur++;
         abbrCur++;
       }
