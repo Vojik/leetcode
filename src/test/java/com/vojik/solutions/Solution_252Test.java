@@ -16,4 +16,14 @@ class Solution_252Test {
   public void test2_whenSolution1() {
     assertTrue(new Solution_252().canAttendMeetings(new int[][]{{7,10}, {2, 4}}));
   }
+
+  @Test
+  public void test1_whenSolution2() {
+    assertFalse(new Solution_252().canAttendMeetings2(new int[][]{{0, 30}, {5, 10}, {15, 20}}));
+  }
+
+  @Test
+  public void test2_whenSolution2() {
+    assertTrue(new Solution_252().canAttendMeetings2(new int[][]{{7,10}, {2, 4}}));
+  }
 }
