@@ -25,4 +25,4 @@ class Solution_224Test {
   public void test4_whenSolution1() {
     assertEquals(42, new Solution_224().calculate("42"));
   }
-1}
+}
