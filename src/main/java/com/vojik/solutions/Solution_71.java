@@ -11,28 +11,21 @@ public class Solution_71 {
   public String simplifyPath(String path) {
     Deque<String> deque = new ArrayDeque<>();
     final String[] parts = path.split("/");
-    for (int i = 1; i < parts.length; i++) {
-      String str = parts[i];
-      if (str.isBlank() || str.equals(".")) {
+    for (String directory : parts) {
+      if (directory.isEmpty() || directory.equals(".")) {
         continue;
-      } else if (str.equals("..")) {
-        if (!deque.isEmpty()) {
-          deque.pollLast();
-        }
+      } else if (directory.equals("..")) {
+        deque.pollLast();
       } else {
-        deque.addLast(str);
+        deque.addLast(directory);
       }
     }
 
     StringBuilder sb = new StringBuilder();
-    sb.append("/");
     while (!deque.isEmpty()) {
-      sb.append(deque.pollFirst());
       sb.append("/");
+      sb.append(deque.pollFirst());
     }
-    if (sb.length() > 1) {
-      sb.deleteCharAt(sb.length() - 1);
-    }
-    return sb.toString();
+    return sb.length() > 1 ? sb.toString() : "/";
   }
 }

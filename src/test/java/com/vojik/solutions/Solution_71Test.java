@@ -26,4 +26,25 @@ class Solution_71Test {
     assertEquals("/home", new Solution_71().simplifyPath("/home/"));
   }
 
+  @Test
+  public void test5_whenSolution1() {
+    assertEquals("/home/user/Pictures",
+        new Solution_71().simplifyPath("/home/user/Documents/../Pictures"));
+  }
+
+  @Test
+  public void test6_whenSolution1() {
+    assertEquals("/.../b/d", new Solution_71().simplifyPath("/.../a/../b/c/../d/./"));
+  }
+
+  @Test
+  public void test7_whenSolution1() {
+    assertEquals("/..hidden", new Solution_71().simplifyPath("/..hidden"));
+  }
+
+  @Test
+  public void test8_whenSolution1() {
+    assertEquals("/a/b/c", new Solution_71().simplifyPath("/a//b////c/d//././/.."));
+  }
+
 }
