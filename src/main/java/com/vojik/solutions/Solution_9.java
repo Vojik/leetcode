@@ -7,13 +7,12 @@ public class Solution_9 {
     if (x < 0) {
       return false;
     }
-    int max = Integer.MAX_VALUE / 10 - 10;
-    int originalNum = x;
-    int newNum = 0;
-    while (x != 0 && newNum < max) {
-      newNum = newNum * 10 + x % 10;
-      x /= 10;
+    int a = x;
+    int y = 0;
+    while (a > 0) {
+      y = y * 10 + a % 10;
+      a /= 10;
     }
-    return originalNum == newNum;
+    return x == y;
   }
 }
