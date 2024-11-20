@@ -1,6 +1,8 @@
 package com.vojik.solutions;
 
 import com.vojik.helpers.TreeNode;
+import java.util.ArrayDeque;
+import java.util.Deque;
 import java.util.Stack;
 
 /**
@@ -8,28 +10,28 @@ import java.util.Stack;
  */
 public class Solution_173 {
 
-  private Stack<TreeNode> stack;
+  private Deque<TreeNode> deque = new ArrayDeque<>();
 
   public Solution_173(TreeNode root) {
-    this.stack = new Stack<>();
-    addToStack(root);
-
+    populateStackWithLeftMost(root);
   }
 
   public int next() {
-    TreeNode node = stack.pop();
-    addToStack(node.right);
+    TreeNode node = deque.removeLast();
+    if (node.right != null) {
+      populateStackWithLeftMost(node.right);
+    }
     return node.val;
   }
 
   public boolean hasNext() {
-    return !stack.isEmpty();
+    return !deque.isEmpty();
   }
 
-  private void addToStack(TreeNode root) {
-    while (root != null) {
-      stack.push(root);
-      root = root.left;
+  private void populateStackWithLeftMost(TreeNode node) {
+    while (node != null) {
+      deque.addLast(node);
+      node = node.left;
     }
   }
 }
