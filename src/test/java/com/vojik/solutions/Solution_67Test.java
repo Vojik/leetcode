@@ -21,4 +21,19 @@ class Solution_67Test {
     assertEquals("101110", new Solution_67().addBinary("1111", "11111"));
   }
 
+  @Test
+  public void test1_whenSolution2() {
+    assertEquals("100", new Solution_67().addBinary2("11", "1"));
+  }
+
+  @Test
+  public void test2_whenSolution2() {
+    assertEquals("10101", new Solution_67().addBinary2("1010", "1011"));
+  }
+
+  @Test
+  public void test3_whenSolution2() {
+    assertEquals("101110", new Solution_67().addBinary2("1111", "11111"));
+  }
+
 }
