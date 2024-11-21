@@ -23,7 +23,6 @@ public class Solution_863 {
     queue.add(target);
     seen.add(target);
 
-    int level = 0;
     int distance = 0;
     while (!queue.isEmpty()) {
       if (distance == k) {
