@@ -24,4 +24,22 @@ public class Solution_3 {
     return max;
   }
 
+  // Time: O(2n) Space: O(n)
+  public int lengthOfLongestSubstring2(String s) {
+    Map<Character, Integer> freq = new HashMap<>();
+    int result = 0;
+    for (int left = 0, right = 0; right < s.length(); right++) {
+      char ch = s.charAt(right);
+      freq.put(ch, freq.getOrDefault(ch, 0) + 1);
+
+      while (freq.get(ch) > 1) {
+        char leftCh = s.charAt(left);
+        freq.put(leftCh, freq.get(leftCh) - 1);
+        left++;
+      }
+      result = Math.max(result, right - left + 1);
+    }
+    return result;
+  }
+
 }

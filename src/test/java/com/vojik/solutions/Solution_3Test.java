@@ -7,32 +7,22 @@ import org.junit.jupiter.api.Test;
 class Solution_3Test {
 
   @Test
-  public void test1_whenSolution1() {
+  public void tests_whenSolution1() {
     assertEquals(3, new Solution_3().lengthOfLongestSubstring("hello"));
-  }
-
-  @Test
-  public void test2_whenSolution1() {
     assertEquals(3, new Solution_3().lengthOfLongestSubstring("abcabcbb"));
-  }
-
-  @Test
-  public void test3_whenSolution1() {
     assertEquals(1, new Solution_3().lengthOfLongestSubstring("bbbbb"));
-  }
-
-  @Test
-  public void test4_whenSolution1() {
     assertEquals(3, new Solution_3().lengthOfLongestSubstring("pwwkew"));
-  }
-
-  @Test
-  public void test5_whenSolution1() {
     assertEquals(0, new Solution_3().lengthOfLongestSubstring(""));
+    assertEquals(2, new Solution_3().lengthOfLongestSubstring("cdd"));
   }
 
   @Test
-  public void test6_whenSolution1() {
-    assertEquals(2, new Solution_3().lengthOfLongestSubstring("cdd"));
+  public void tests_whenSolution2() {
+    assertEquals(3, new Solution_3().lengthOfLongestSubstring2("hello"));
+    assertEquals(3, new Solution_3().lengthOfLongestSubstring2("abcabcbb"));
+    assertEquals(1, new Solution_3().lengthOfLongestSubstring2("bbbbb"));
+    assertEquals(3, new Solution_3().lengthOfLongestSubstring2("pwwkew"));
+    assertEquals(0, new Solution_3().lengthOfLongestSubstring2(""));
+    assertEquals(2, new Solution_3().lengthOfLongestSubstring2("cdd"));
   }
 }
