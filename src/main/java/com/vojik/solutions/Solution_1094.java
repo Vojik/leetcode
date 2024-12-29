@@ -32,4 +32,28 @@ public class Solution_1094 {
     }
     return true;
   }
+
+  public boolean carPooling2(int[][] trips, int capacity) {
+    PriorityQueue<int[]> pq = new PriorityQueue<>(
+        (a,b) -> {
+          if (a[0] == b[0]) {
+            return a[1] - b[1];
+          } else {
+            return a[0] - b[0];
+          }
+        }
+    );
+    for (int[] trip : trips) {
+      pq.add(new int[]{trip[1], trip[0]});
+      pq.add(new int[]{trip[2], -trip[0]});
+    }
+    int currentCap = 0;
+    while (!pq.isEmpty()) {
+      currentCap += pq.poll()[1];
+      if (currentCap > capacity) {
+        return false;
+      }
+    }
+    return true;
+  }
 }
