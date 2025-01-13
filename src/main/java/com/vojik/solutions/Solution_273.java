@@ -1,5 +1,7 @@
 package com.vojik.solutions;
 
+import java.util.Map;
+
 /**
  * 273. Integer to English Words
  */
@@ -168,5 +170,40 @@ public class Solution_273 {
     }
 
     return (ten + one(Integer.parseInt(str.substring(1, str.length())))).trim();
+  }
+
+  /**
+   * =========================================================================================================
+   */
+  private Map<Integer, String> singles = Map.of(0, "Zero", 1, "One", 2, "Two", 3, "Three", 4,
+      "Four", 5, "Five", 6, "Six", 7, "Seven", 8, "Eight", 9, "Nine");
+
+  private Map<Integer, String> beforeTwenty = Map.of(10, "Ten", 11, "Eleven", 12, "Twelve", 13,
+      "Thirteen", 14, "Fourteen", 15, "Fifteen", 16, "Sixteen", 17, "Seventeen", 18, "Eighteen", 19,
+      "Nineteen");
+
+  private Map<Integer, String> beforeHundred = Map.of(2, "Twenty", 3, "Thirty", 4, "Forty", 5,
+      "Fifty", 6, "Sixty", 7, "Seventy", 8, "Eighty", 9, "Ninety");
+
+  public String numberToWords2(int num) {
+    if (num < 10) {
+      return singles.get(num);
+    } else if (num < 20) {
+      return beforeTwenty.get(num);
+    } else if (num < 100) {
+      return beforeHundred.get(num / 10) + (num % 10 != 0 ? " " + numberToWords2(num % 10) : "");
+    } else if (num < 1000) {
+      return numberToWords2(num / 100) + " Hundred" + (num % 100 != 0 ? " " + numberToWords2(
+          num % 100) : "");
+    } else if (num < 1000000) {
+      return numberToWords2(num / 1000) + " Thousand" + (num % 1000 != 0 ? " " + numberToWords2(
+          num % 1000) : "");
+    } else if (num < 1000000000) {
+      return numberToWords2(num / 1000000) + " Million" + (num % 1000000 != 0 ? " "
+          + numberToWords2(
+          num % 1000000) : "");
+    }
+    return numberToWords2(num / 1000000000) + " Billion" + (num % 1000000000 != 0 ? " "
+        + numberToWords2(num % 1000000000) : "");
   }
 }
