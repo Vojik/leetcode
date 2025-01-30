@@ -35,6 +35,18 @@ public class Solution_268 {
     return ans;
   }
 
+  public int missingNumber3(int[] nums) {
+    int n = nums.length;
+    int expectedSum = 0;
+    int actualSum = 0;
+    for (int i = 0; i < n; i++) {
+      expectedSum += i;
+      actualSum += nums[i];
+    }
+    expectedSum += n;
+    return expectedSum - actualSum;
+  }
+
   private void swap(int[] nums, int i, int j) {
     int temp = nums[i];
     nums[i] = nums[j];
