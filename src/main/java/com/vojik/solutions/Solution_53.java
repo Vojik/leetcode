@@ -15,4 +15,19 @@ public class Solution_53 {
     }
     return max;
   }
+
+  public int maxSubArray2(int[] nums) {
+    int result = Integer.MIN_VALUE;
+    int left = 0, right = 0;
+    int curSum = 0;
+    while (right < nums.length) {
+      curSum += nums[right++];
+      result = Math.max(curSum, result);
+
+      while (left < right && curSum < 0) {
+        curSum -= nums[left++];
+      }
+    }
+    return result;
+  }
 }
