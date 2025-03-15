@@ -2,6 +2,9 @@ package com.vojik.solutions;
 
 import java.util.Stack;
 
+/**
+ * 844. Backspace String Compare
+ */
 public class Solution_844 {
 
   // Time: O(n + m) Space: O(n + m)
@@ -96,5 +99,22 @@ public class Solution_844 {
       j--;
     }
     return true;
+  }
+
+  public boolean backspaceCompare3(String s, String t) {
+    return buildStr(s).equals(buildStr(t));
+  }
+
+  private String buildStr(String s) {
+    StringBuilder sb = new StringBuilder();
+    for (char c : s.toCharArray()) {
+      if (c == '#') {
+        if (sb.length() > 0)
+          sb.deleteCharAt(sb.length() - 1);
+      } else {
+        sb.append(c);
+      }
+    }
+    return sb.toString();
   }
 }

@@ -27,4 +27,15 @@ class Solution_844Test {
     Assertions.assertFalse(new Solution_844().backspaceCompare2("bbbextm", "bbb#extm"));
   }
 
+  @Test
+  public void tests_whenSolution3() {
+    Assertions.assertTrue(new Solution_844().backspaceCompare3("ab#c", "ad#c"));
+    Assertions.assertTrue(new Solution_844().backspaceCompare3("ab##", "c#d#"));
+    Assertions.assertTrue(new Solution_844().backspaceCompare3("a##c", "#a#c"));
+    Assertions.assertFalse(new Solution_844().backspaceCompare3("a#c", "b"));
+    Assertions.assertTrue(new Solution_844().backspaceCompare3("y#fo##f", "y#f#o##f"));
+    Assertions.assertFalse(new Solution_844().backspaceCompare3("bxj##tw", "bxj###tw"));
+    Assertions.assertFalse(new Solution_844().backspaceCompare3("bbbextm", "bbb#extm"));
+  }
+
 }
