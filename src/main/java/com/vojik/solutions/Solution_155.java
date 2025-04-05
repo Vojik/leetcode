@@ -1,7 +1,6 @@
 package com.vojik.solutions;
 
-import java.util.ArrayList;
-import java.util.List;
+import java.util.Stack;
 
 /**
  * 155. Min Stack
@@ -29,32 +28,41 @@ import java.util.List;
  */
 public class Solution_155 {
 
-  private List<Integer> stack;
+  private Stack<Node> stack;
 
-  /**
-   * initialize your data structure here.
-   */
   public Solution_155() {
-    stack = new ArrayList<>();
+    this.stack = new Stack<>();
   }
 
-  public void push(int x) {
-    stack.add(x);
+  public void push(int val) {
+    if (stack.isEmpty()) {
+      stack.push(new Node(val, val));
+    } else {
+      int minSoFar = stack.peek().min;
+      stack.push(new Node(val, Math.min(val, minSoFar)));
+    }
   }
 
   public void pop() {
-    stack.remove(stack.size() - 1);
+    stack.pop();
   }
 
   public int top() {
-    return stack.get(stack.size() - 1);
+    return stack.peek().val;
   }
 
   public int getMin() {
-    int min = stack.get(0);
-    for (int i = 1; i < stack.size(); i++) {
-      min = Math.min(min, stack.get(i));
+    return stack.peek().min;
+  }
+
+  class Node {
+
+    int val;
+    int min;
+
+    Node(int val, int min) {
+      this.val = val;
+      this.min = min;
     }
-    return min;
   }
 }
