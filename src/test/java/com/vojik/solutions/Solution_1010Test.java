@@ -5,7 +5,6 @@ import org.junit.jupiter.api.Test;
 
 class Solution_1010Test {
 
-
   @Test
   public void test1_whenSolution1() {
     Assertions.assertEquals(3,
@@ -17,5 +16,4 @@ class Solution_1010Test {
     Assertions.assertEquals(3,
         new Solution_1010().numPairsDivisibleBy60(new int[]{60,60,60}));
   }
-
 }
