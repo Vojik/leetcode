@@ -18,7 +18,7 @@ public class Solution_49 {
       char[] chars = word.toCharArray();
       Arrays.sort(chars);
       String key = new String(chars);
-      List<String> innerList = map.getOrDefault(key, new ArrayList<String>());
+      List<String> innerList = map.getOrDefault(key, new ArrayList<>());
       innerList.add(word);
       map.put(key, innerList);
     }

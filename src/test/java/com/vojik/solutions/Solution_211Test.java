@@ -18,4 +18,19 @@ class Solution_211Test {
     assertTrue(wordDictionary.search(".ad"));
     assertTrue(wordDictionary.search("b.."));
   }
+
+  @Test
+  public void test2_whenSolution1() {
+    Solution_211 wordDictionary = new Solution_211();
+    wordDictionary.addWord("a");
+    wordDictionary.addWord("ab");
+    assertTrue(wordDictionary.search("a"));
+    assertTrue(wordDictionary.search("a."));
+    assertTrue(wordDictionary.search("ab"));
+    assertFalse(wordDictionary.search(".a"));
+    assertTrue(wordDictionary.search(".b"));
+    assertFalse(wordDictionary.search("ab."));
+    assertTrue(wordDictionary.search("."));
+    assertTrue(wordDictionary.search(".."));
+  }
 }
