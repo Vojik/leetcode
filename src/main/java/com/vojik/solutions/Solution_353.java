@@ -1,111 +1,119 @@
 package com.vojik.solutions;
 
-// not working correctly
+import java.util.ArrayDeque;
+import java.util.Deque;
+import java.util.HashSet;
+import java.util.Set;
 
 /** 353. Design Snake Game */
 public class Solution_353 {
 
-  private int[][] board;
-  private int[][] food;
-  private boolean[][] snakeBody;
-  private int score;
-  private int curX;
-  private int curY;
+  private final int width;
+  private final int height;
+  private final int[][] food;
+  private int foodIdx;
+  private int r;
+  private int c;
+  private final Set<Cell> snakeBody;
+  private final Deque<Cell> snake;
 
-  private Snake head;
-  private Snake tail;
-
-  private int foodIdx = 0;
-
-
-  /** Initialize your data structure here.
-   @param width - screen width
-   @param height - screen height
-   @param food - A list of food positions
-   E.g food = [[1,1], [1,0]] means the first food is positioned at [1,1], the second is at [1,0]. */
   public Solution_353(int width, int height, int[][] food) {
-    this.board = new int[height][width];
-    this.snakeBody = new boolean[height][width];
-    snakeBody[0][0] = true;
-    head = new Snake(0, 0);
-    tail = head;
+    this.width = width;
+    this.height = height;
     this.food = food;
-    this.score = 0;
-    this.curX = 0;
-    this.curY = 0;
+    this.foodIdx = 0;
+    this.r = 0;
+    this.c = 0;
+    this.snakeBody = new HashSet<>();
+    this.snake = new ArrayDeque<>();
+
+    Cell start = new Cell(r, c);
+    this.snakeBody.add(start);
+    this.snake.add(start);
   }
 
-  /** Moves the snake.
-   @param direction - 'U' = Up, 'L' = Left, 'R' = Right, 'D' = Down
-   @return The game's score after the move. Return -1 if game over.
-   Game over when snake crosses the screen boundary or bites its body. */
   public int move(String direction) {
-    print();
-    switch(direction) {
-      case "U":
-        curX--;
-        break;
-      case "L":
-        curY--;
-        break;
-      case "R":
-        curY++;
-        break;
-      case "D":
-        curX++;
-        break;
-      default:
-        throw new RuntimeException("Wrong direction: " + direction);
-    }
-
-    if (isGameOver(curX, curY)) {
+    updatePosition(direction);
+    if (!isInBoard()) {
       return -1;
     }
 
-    if (checkFood(curX, curY)) {
-      head.next = new Snake(curX, curY);
-      head = head.next;
-      snakeBody[curX][curY] = true;
-      score++;
-      foodIdx++;
-    } else {
-      head.next = new Snake(curX, curY);
-      head = head.next;
-      snakeBody[tail.i][tail.j] = false;
-      snakeBody[curX][curY] = true;
-      tail = tail.next;
+    Cell newHead = new Cell(r, c);
+    Cell currentTail = this.snake.peekLast();
+
+    // If any of the terminal conditions are satisfied, then we exit with rcode -1.
+    if (snakeBody.contains(newHead) && !newHead.equals(currentTail)) {
+      return -1;
     }
-    return score;
+
+    if (foodIdx < food.length && food[foodIdx][0] == r && food[foodIdx][1] == c) { // food found!!
+      this.foodIdx++;
+    } else { // no food
+      Cell oldTail = this.snake.removeFirst();
+      this.snakeBody.remove(oldTail);
+    }
+    this.snake.addLast(newHead);
+    this.snakeBody.add(newHead);
+
+    return this.snake.size() - 1;
   }
 
-  private boolean checkFood(int i, int j) {
-    return food[foodIdx][0] == i && food[foodIdx][1] == j;
+  private void updatePosition(String direction) {
+    switch (direction) {
+      case "R":
+        this.c++;
+        break;
+      case "L":
+        this.c--;
+        break;
+      case "U":
+        this.r--;
+        break;
+      case "D":
+        this.r++;
+        break;
+      default:
+        throw new RuntimeException("Wrong direction provided");
+    }
   }
 
-  private boolean isGameOver(int i, int j) {
-    return i < 0 && j < 0 && i >= board.length && j >= board[0].length && snakeBody[i][j];
+  private boolean isInBoard() {
+    return r >= 0 && r < height && c >= 0 && c < width;
   }
 
-  private void print() {
-    for (int i = 0; i < snakeBody.length; i++) {
-      for (int j = 0; j < snakeBody[0].length; j++) {
-        if (snakeBody[i][j]) {
-          System.out.println(i + " " + j);
-        }
+  static class Cell implements Comparable<Cell> {
 
+    int x;
+    int y;
+
+    Cell(int x, int y) {
+      this.x = x;
+      this.y = y;
+    }
+
+    @Override
+    public boolean equals(Object obj) {
+      if (this == obj) {
+        return true;
       }
+      if (obj == null || getClass() != obj.getClass()) {
+        return false;
+      }
+      Cell other = (Cell) obj;
+      return this.x == other.x && this.y == other.y;
     }
 
-  }
+    @Override
+    public int hashCode() {
+      return 31 * x + y;
+    }
 
-  class Snake {
-    int i;
-    int j;
-    Snake next;
-
-    Snake(int i, int j) {
-      this.i = i;
-      this.j = j;
+    @Override
+    public int compareTo(Cell o) {
+      if (this.x != o.x) {
+        return this.x - o.x;
+      }
+      return this.y - o.y;
     }
   }
 
