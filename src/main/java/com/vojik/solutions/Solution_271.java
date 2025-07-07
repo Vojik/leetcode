@@ -1,26 +1,39 @@
 package com.vojik.solutions;
 
-import com.vojik.helpers.TreeNode;
+import java.util.ArrayList;
+import java.util.List;
 
-/** 270. Closest Binary Search Tree Value */
-public class Solution_270 {
+/** 271. Encode and Decode Strings */
+public class Solution_271 {
 
-  public int closestValue(TreeNode root, double target) {
-    int closest = root.val;
-    while (root != null) {
-      if (root.val == target) {
-        return root.val;
-      }
-      if (Math.abs((double) root.val - target) < Math.abs((double) closest - target)) {
-        closest = root.val;
-      }
+  private final static String BEGIN = "#BEGIN:";
+  private final static String END = ":END#";
 
-      if (root.val > target) {
-        root = root.left;
-      } else {
-        root = root.right;
+  // Encodes a list of strings to a single string.
+  public String encode(List<String> strs) {
+    StringBuilder sb = new StringBuilder();
+    for (String s : strs) {
+      sb.append(BEGIN);
+      sb.append(s);
+      sb.append(END);
+    }
+    return sb.toString();
+  }
+
+  // Decodes a single string to a list of strings.
+  public List<String> decode(String s) {
+    List<String> result = new ArrayList<>();
+    for (int i = 0; i < s.length(); i++) {
+      int start = s.indexOf(BEGIN, i);
+      if (start != -1) {
+        int end = s.indexOf(END, start);
+        if (end != -1) {
+          result.add(s.substring(start + BEGIN.length(), end));
+          i = end + END.length() - 1;
+        }
       }
     }
-    return closest;
+
+    return result;
   }
 }
