@@ -10,21 +10,21 @@ public class Solution_340 {
     if (k == 0 || s == null || s.isEmpty()) {
       return 0;
     }
-    Map<Character, Integer> freq = new HashMap<>();
-    int longest = 0;
-    int left = 0;
-    int right = 0;
+    Map<Character, Integer> freqMap = new HashMap<>();
+    int left = 0, right = 0, longest = 0;
     while (right < s.length()) {
-      char ch = s.charAt(right);
-      freq.put(ch, freq.getOrDefault(ch, 0) + 1);
-      while (freq.size() > k && left < right) {
-        char leftCh = s.charAt(left);
-        freq.put(leftCh, freq.getOrDefault(leftCh, 0) - 1);
-        if (freq.get(leftCh) == 0) {
-          freq.remove(leftCh);
+      char currentChar = s.charAt(right);
+      freqMap.put(currentChar, freqMap.getOrDefault(currentChar, 0) + 1);
+
+      while (freqMap.size() > k) {
+        char leftChar = s.charAt(left);
+        freqMap.put(leftChar, freqMap.get(leftChar) - 1);
+        if (freqMap.get(leftChar) == 0) {
+          freqMap.remove(leftChar);
         }
         left++;
       }
+
       longest = Math.max(longest, right - left + 1);
       right++;
     }
