@@ -31,37 +31,26 @@ public class Solution_424 {
   }
 
   public int characterReplacement2(String s, int k) {
-    int result = 0, left = 0, right = 0;
-    int[] chars = new int[26];
+    int[] count = new int[26];
+    int left = 0, right = 0, maxLen = 0, maxCountSoFar = 0;
+    while (right < s.length()) {
+      int currentChar = s.charAt(right) - 'A';
+      count[currentChar]++;
 
-    while (right < s.length() && left <= right) {
+      maxCountSoFar = Math.max(maxCountSoFar, count[currentChar]);
 
-      chars[s.charAt(right) - 'A']++;
-      if (isValidWindow(chars, k)) {
-        result = Math.max(result, right - left + 1);
-        right++;
-      } else {
-        chars[s.charAt(left++) - 'A']--;
+      if (!isValid(left, right, maxCountSoFar, k)) {
+        count[s.charAt(left) - 'A']--;
+        left++;
       }
+
+      maxLen = right - left + 1;
+      right++;
     }
-    return result;
+    return maxLen;
   }
 
-  private boolean isValidWindow(int[] chars, int k) {
-    int numOfChars = 0;
-    int count1 = 0, count2 = 0;
-
-    for (int count : chars) {
-      if (count > 0) {
-        numOfChars++;
-        if (numOfChars > 2) return false;
-        if (numOfChars == 1) count1 = count;
-        if (numOfChars == 2) count2 = count;
-      }
-    }
-
-    if (k == 0 && numOfChars > 1) return false;
-
-    return k>= Math.min(count1, count2);
+  private boolean isValid(int left, int right, int maxCountSoFar, int k) {
+    return right - left + 1 - maxCountSoFar <= k;
   }
 }
