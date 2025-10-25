@@ -7,7 +7,7 @@ import java.util.PriorityQueue;
  */
 public class Solution_295 {
 
-  private final PriorityQueue<Integer> maxHeap; // holds first part of numbersЧ
+  private final PriorityQueue<Integer> maxHeap; // holds first part of numbers
   private final PriorityQueue<Integer> minHeap; // holds first part of numbers
 
   /**
