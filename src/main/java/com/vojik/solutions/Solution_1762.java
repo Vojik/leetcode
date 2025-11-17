@@ -1,6 +1,8 @@
 package com.vojik.solutions;
 
+import java.util.ArrayDeque;
 import java.util.Arrays;
+import java.util.Deque;
 
 /**
  * 1762. Buildings With an Ocean View
@@ -23,7 +25,8 @@ import java.util.Arrays;
  * <p>Input: heights = [4,3,2,1] Output: [0,1,2,3] Explanation: All the buildings have an ocean
  * view. Example 3:
  *
- * <p>Input: heights = [1,3,2,4] Output: [3] Explanation: Only building 3 has an ocean view. Example
+ * <p>Input: heights = [1,3,2,4] Output: [3] Explanation: Only building 3 has an ocean view.
+ * Example
  * 4:
  *
  * <p>Input: heights = [2,2,2,2] Output: [3] Explanation: Buildings cannot see the ocean if there
@@ -48,5 +51,23 @@ public class Solution_1762 {
       }
     }
     return Arrays.copyOfRange(result, idx, len);
+  }
+
+  public int[] findBuildings2(int[] heights) {
+    int len = heights.length;
+    Deque<Integer> stack = new ArrayDeque<>();
+    for (int i = 0; i < len; i++) {
+      // increasing monotonic stack
+      while (!stack.isEmpty() && heights[stack.getLast()] <= heights[i]) {
+        stack.removeLast();
+      }
+      stack.addLast(i);
+    }
+    int[] ans = new int[stack.size()];
+    int idx = 0;
+    while (!stack.isEmpty()) {
+      ans[idx++] = stack.removeFirst();
+    }
+    return ans;
   }
 }
