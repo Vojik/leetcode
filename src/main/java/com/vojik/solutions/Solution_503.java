@@ -1,5 +1,8 @@
 package com.vojik.solutions;
 
+import java.util.ArrayDeque;
+import java.util.Arrays;
+import java.util.Deque;
 import java.util.Stack;
 
 /**
@@ -34,5 +37,22 @@ public class Solution_503 {
       stack.push(nums[i]);
       i--;
     }
+  }
+
+  public int[] nextGreaterElements2(int[] nums) {
+    Deque<Integer> decreasingStack = new ArrayDeque<>();
+    int len = nums.length;
+    int[] ans = new int[len];
+    Arrays.fill(ans, -1);
+    for (int i = 0; i < 2 * len; i++) {
+      while (!decreasingStack.isEmpty() && nums[decreasingStack.getLast()] < nums[i % len]) {
+        int idx = decreasingStack.removeLast();
+        ans[idx] = nums[i % len];
+      }
+
+      decreasingStack.addLast(i % len);
+    }
+
+    return ans;
   }
 }
